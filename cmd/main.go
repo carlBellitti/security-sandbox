@@ -2,17 +2,13 @@ package main
 
 import (
 	"os"
-	"test-jira/pkg/config"
-	"test-jira/pkg/models"
-	"test-jira/pkg/scan"
-	"test-jira/pkg/utils"
+	"security-metrics-action/internal/helpers"
+	"security-metrics-action/internal/models"
 )
 
 const IS_PRODUCTION = true
 
 func main() {
-
-	var app config.AppConfig
 
 	/* List of argument vars used for testing
 	   /*
@@ -23,17 +19,11 @@ func main() {
 	   debug - Used for testing to add code while troubleshooting issues
 	   slack - Force Slack
 	*/
-
 	logging := true
-	logger := utils.InitializeLogger(logging)
+	logger := helpers.InitializeLogger(logging)
 
-	//commandLineOptions := getScanOptions(os.Args)
-	app.ScanOptions = getScanOptions(os.Args)
-	app.Logger = logger
-	app.IsProduction = IS_PRODUCTION
-
-	//helpers.StartScan(commandLineOptions, logger, IS_PRODUCTION)
-	scan.StartScan(&app)
+	commandLineOptions := getScanOptions(os.Args)
+	helpers.StartScan(commandLineOptions, logger, IS_PRODUCTION)
 }
 
 func getScanOptions(args []string) models.ScanOptions {

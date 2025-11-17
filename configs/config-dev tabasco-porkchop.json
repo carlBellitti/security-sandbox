@@ -1,0 +1,69 @@
+{
+  "teams" :{
+    "porkchop":{
+      "displayName" : "Porkchop",
+      "slackID" : "CKB6ZJC9Z",
+      "jiraTeamID": "576121",
+      "jiraEnabled": false,
+      "slackEnabled": false
+
+    },
+    "tabasco":{
+      "displayName" : "Tabasco",
+      "slackID" : "CEMD2961H",
+      "jiraTeamID": "714600",
+      "jiraEnabled": false,
+      "slackEnabled": false
+    }
+  },  
+  "reposGithub": [
+    {
+      "org": "slus-customer-experience",
+      "name": "slus-broker-portal",
+      "owner": "porkchop",
+      "portfolio": "Health and Risk",
+      "appInfo": "APMXXXXXX-DCP Broker Portal",
+      "notes" : ""
+    },
+    {
+      "org": "dailyFeats",
+      "name": "maxwell-forms",
+      "owner": "porkchop",
+      "portfolio": "Maxwell",
+      "appInfo": "APM0004694 app.maxwellhealth.com",
+      "notes" : "To be retired in 2026"
+    },
+    {
+      "org": "slus-customer-experience",
+      "name": "slus-internal-admin",
+      "owner": "porkchop",
+      "portfolio": "Health and Risk",
+      "appInfo": "APMXXXXX",
+      "notes" : ""
+    },
+    {
+      "org": "dailyFeats",
+      "name": "flax",
+      "owner": "tabasco",
+      "portfolio": "Maxwell",
+      "appInfo": "APM0004694 app.maxwellhealth.com",
+      "notes" : "To be retired in 2026"
+    },
+    {
+      "org": "dailyFeats",
+      "name": "hr-admin",
+      "owner": "tabasco",
+      "portfolio": "Maxwell",
+      "appInfo": "APM0004694 app.maxwellhealth.com",
+      "notes" : "To be retired in 2026"
+    },
+    {
+      "org": "dailyFeats",
+      "name": "slfus-client-onboard",
+      "owner": "tabasco",
+      "portfolio": "Group Web",
+      "appInfo": "APMXXXXXX-Sun Life Onboard",
+      "notes" : ""
+    }
+  ]
+}
