@@ -1,0 +1,243 @@
+[
+  {
+    "self": "https://sunlife.atlassian.net/rest/api/3/priority/11079",
+    "statusColor": "#d04437",
+    "description": "",
+    "iconUrl": "https://sunlife.atlassian.net/images/icons/priorities/blocker.svg",
+    "name": "Blocker",
+    "id": "11079"
+  },
+  {
+    "self": "https://sunlife.atlassian.net/rest/api/3/priority/10000",
+    "statusColor": "#660066",
+    "description": "response within 4 hours",
+    "iconUrl": "https://sunlife.atlassian.net/images/icons/priorities/blocker.svg",
+    "name": "Urgent",
+    "id": "10000"
+  },
+  {
+    "self": "https://sunlife.atlassian.net/rest/api/3/priority/1",
+    "statusColor": "#d04437",
+    "description": "This problem will block progress.",
+    "iconUrl": "https://sunlife.atlassian.net/images/icons/priorities/highest.svg",
+    "name": "Highest",
+    "id": "1"
+  },
+  {
+    "self": "https://sunlife.atlassian.net/rest/api/3/priority/11080",
+    "statusColor": "#F7E402",
+    "description": "",
+    "iconUrl": "https://sunlife.atlassian.net/images/icons/priorities/critical.svg",
+    "name": "Critical",
+    "id": "11080"
+  },
+  {
+    "self": "https://sunlife.atlassian.net/rest/api/3/priority/2",
+    "statusColor": "#f15C75",
+    "description": "Serious problem that could block progress.",
+    "iconUrl": "https://sunlife.atlassian.net/images/icons/priorities/high.svg",
+    "name": "High",
+    "id": "2"
+  },
+  {
+    "self": "https://sunlife.atlassian.net/rest/api/3/priority/3",
+    "statusColor": "#f79232",
+    "description": "Has the potential to affect progress.",
+    "iconUrl": "https://sunlife.atlassian.net/images/icons/priorities/medium.svg",
+    "name": "Medium",
+    "id": "3"
+  },
+  {
+    "self": "https://sunlife.atlassian.net/rest/api/3/priority/4",
+    "statusColor": "#707070",
+    "description": "Minor problem or easily worked around.",
+    "iconUrl": "https://sunlife.atlassian.net/images/icons/priorities/low.svg",
+    "name": "Low",
+    "id": "4"
+  },
+  {
+    "self": "https://sunlife.atlassian.net/rest/api/3/priority/5",
+    "statusColor": "#999999",
+    "description": "Trivial problem with little or no impact on progress.",
+    "iconUrl": "https://sunlife.atlassian.net/images/icons/priorities/lowest.svg",
+    "name": "Lowest",
+    "id": "5"
+  },
+  {
+    "self": "https://sunlife.atlassian.net/rest/api/3/priority/11081",
+    "statusColor": "#333333",
+    "description": "",
+    "iconUrl": "https://sunlife.atlassian.net/images/icons/priorities/trivial.svg",
+    "name": "No",
+    "id": "11081"
+  },
+  {
+    "self": "https://sunlife.atlassian.net/rest/api/3/priority/11082",
+    "statusColor": "#EF612C",
+    "description": "",
+    "iconUrl": "https://sunlife.atlassian.net/images/icons/priorities/highest.svg",
+    "name": "Financial - Direct Loss",
+    "id": "11082"
+  },
+  {
+    "self": "https://sunlife.atlassian.net/rest/api/3/priority/11083",
+    "statusColor": "#EF612C",
+    "description": "",
+    "iconUrl": "https://sunlife.atlassian.net/images/icons/priorities/highest.svg",
+    "name": "Financial - Indirect Loss",
+    "id": "11083"
+  },
+  {
+    "self": "https://sunlife.atlassian.net/rest/api/3/priority/11084",
+    "statusColor": "#EF612C",
+    "description": "",
+    "iconUrl": "https://sunlife.atlassian.net/images/icons/priorities/high.svg",
+    "name": "Reputation Risk",
+    "id": "11084"
+  },
+  {
+    "self": "https://sunlife.atlassian.net/rest/api/3/priority/11085",
+    "statusColor": "#5C5C5C",
+    "description": "",
+    "iconUrl": "https://sunlife.atlassian.net/images/icons/priorities/low.svg",
+    "name": "Regulatory Requirement",
+    "id": "11085"
+  },
+  {
+    "self": "https://sunlife.atlassian.net/rest/api/3/priority/11086",
+    "statusColor": "#EF612C",
+    "description": "",
+    "iconUrl": "https://sunlife.atlassian.net/images/icons/priorities/high.svg",
+    "name": "Operational Risk",
+    "id": "11086"
+  },
+  {
+    "self": "https://sunlife.atlassian.net/rest/api/3/priority/11090",
+    "statusColor": "#009900",
+    "description": "1 - Low",
+    "iconUrl": "https://sunlife.atlassian.net/images/icons/priorities/major.svg",
+    "name": "1 - Low",
+    "id": "11090"
+  },
+  {
+    "self": "https://sunlife.atlassian.net/rest/api/3/priority/11042",
+    "statusColor": "#ff0000",
+    "description": "System is down: A problem affecting all or most users of a service. Site is not operational",
+    "iconUrl": "https://cdn2.iconfinder.com/data/icons/gnomeicontheme/32x32/status/gtk-dialog-warning.png",
+    "name": "0 - Emergency",
+    "id": "11042"
+  },
+  {
+    "self": "https://sunlife.atlassian.net/rest/api/3/priority/11043",
+    "statusColor": "#ff0000",
+    "description": "A problem affecting multiple users.",
+    "iconUrl": "https://sunlife.atlassian.net/images/icons/priorities/critical.svg",
+    "name": "1 - High",
+    "id": "11043"
+  },
+  {
+    "self": "https://sunlife.atlassian.net/rest/api/3/priority/11044",
+    "statusColor": "#009900",
+    "description": "A normal service request affecting one user or where options may be provided to the user.",
+    "iconUrl": "https://cdn1.iconfinder.com/data/icons/general-9/500/right_arrow-128.png",
+    "name": "2 - Normal",
+    "id": "11044"
+  },
+  {
+    "self": "https://sunlife.atlassian.net/rest/api/3/priority/11045",
+    "statusColor": "#003300",
+    "description": "A service request not requiring immediate attention or of a non-critical nature.",
+    "iconUrl": "https://sunlife.atlassian.net/images/icons/priorities/trivial.svg",
+    "name": "3 - Low",
+    "id": "11045"
+  },
+  {
+    "self": "https://sunlife.atlassian.net/rest/api/3/priority/11046",
+    "statusColor": "#000000",
+    "description": "Uncertain priority and currently being assessed",
+    "iconUrl": "https://cdn4.iconfinder.com/data/icons/32x32-free-design-icons/32/Help.png",
+    "name": "Uncertain",
+    "id": "11046"
+  },
+  {
+    "self": "https://sunlife.atlassian.net/rest/api/3/priority/11087",
+    "statusColor": "#cc3333",
+    "description": "Enhancement Request (ER)",
+    "iconUrl": "https://cdn1.iconfinder.com/data/icons/smashicons-the-essentials-solid/57/210_-_Enhance_Solid-128.png",
+    "name": "Enh. Request",
+    "id": "11087"
+  },
+  {
+    "self": "https://sunlife.atlassian.net/rest/api/3/priority/11088",
+    "statusColor": "#ff0000",
+    "description": "",
+    "iconUrl": "https://sunlife.atlassian.net/images/icons/priorities/critical.svg",
+    "name": "CIRT - High",
+    "id": "11088"
+  },
+  {
+    "self": "https://sunlife.atlassian.net/rest/api/3/priority/11089",
+    "statusColor": "#ff0000",
+    "description": "",
+    "iconUrl": "https://sunlife.atlassian.net/images/icons/priorities/major.svg",
+    "name": "Internal Escalation",
+    "id": "11089"
+  },
+  {
+    "self": "https://sunlife.atlassian.net/rest/api/3/priority/10004",
+    "statusColor": "#006666",
+    "description": "response within 10 business days",
+    "iconUrl": "https://sunlife.atlassian.net/images/icons/priorities/trivial.svg",
+    "name": "No priority",
+    "id": "10004"
+  },
+  {
+    "self": "https://sunlife.atlassian.net/rest/api/3/priority/11040",
+    "statusColor": "#009900",
+    "description": "Priority",
+    "iconUrl": "https://sunlife.atlassian.net/images/icons/priorities/major.svg",
+    "name": "Priority",
+    "id": "11040"
+  },
+  {
+    "self": "https://sunlife.atlassian.net/rest/api/3/priority/10001",
+    "statusColor": "#ff0033",
+    "description": "response within 1 business day",
+    "iconUrl": "https://sunlife.atlassian.net/images/icons/priorities/critical.svg",
+    "name": "High (migrated)",
+    "id": "10001"
+  },
+  {
+    "self": "https://sunlife.atlassian.net/rest/api/3/priority/10002",
+    "statusColor": "#ffcc66",
+    "description": "response within 3 business days",
+    "iconUrl": "https://sunlife.atlassian.net/images/icons/priorities/major.svg",
+    "name": "Medium (migrated)",
+    "id": "10002"
+  },
+  {
+    "self": "https://sunlife.atlassian.net/rest/api/3/priority/10003",
+    "statusColor": "#339933",
+    "description": "response within 5 business days",
+    "iconUrl": "https://sunlife.atlassian.net/images/icons/priorities/minor.svg",
+    "name": "Low (migrated)",
+    "id": "10003"
+  },
+  {
+    "self": "https://sunlife.atlassian.net/rest/api/3/priority/11123",
+    "statusColor": "#5E6C84",
+    "description": "",
+    "iconUrl": "https://sunlife.atlassian.net/rest/api/3/universal_avatar/view/type/priority/avatar/12063?size=medium",
+    "avatarId": 12063,
+    "name": "Not Selected",
+    "id": "11123"
+  },
+  {
+    "self": "https://sunlife.atlassian.net/rest/api/3/priority/11124",
+    "statusColor": "#009900",
+    "description": "Mandatory",
+    "iconUrl": "https://sunlife.atlassian.net/images/icons/priority_major.gif",
+    "name": "Mandatory",
+    "id": "11124"
+  }
+]

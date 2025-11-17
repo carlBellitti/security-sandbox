@@ -1,0 +1,138 @@
+{
+  "teams" :{
+    "techbreeze": {
+      "displayName" : "TechBreeze",
+      "slackID" : "XXXXXXXXX",
+      "jiraTeamID": "725487",
+      "jiraEnabled": true,
+      "jiraFilterID":"48541",
+      "slackEnabled": false,
+      "teamsEnabled": true,
+      "teamsWebHookUrl": "https://prod-126.westus.logic.azure.com:443/workflows/707ed6503fb647f8a739b7edfba2b1ac/triggers/manual/paths/invoke?api-version=2016-06-01&sp=%2Ftriggers%2Fmanual%2Frun&sv=1.0&sig=PR_roeSYTZhRXEHGHDu-IXAz1mnpiTO71YnpjknVC9g"
+    }
+  },  
+  "reposGithub": [],
+  "reposAWS": [],
+  "reposOther":  [
+    {
+      "org": "legacy",
+      "name": "External Applications/slconnect",
+      "owner": "techbreeze",
+      "portfolio": "Group Web",
+      "appInfo": "Sun Life Connect",
+      "notes" : "Critical"
+    },
+    {
+      "org": "legacy",
+      "name": "Employer/commons",
+      "owner": "techbreeze",
+      "portfolio": "Group Web",
+      "appInfo": "OA Employer",
+      "notes" : "Critical"
+    },
+    {
+      "org": "legacy",
+      "name": "Employer/slc-employer",
+      "owner": "techbreeze",
+      "portfolio": "Group Web",
+      "appInfo": "OA Employer",
+      "notes" : "Critical"
+    },
+    {
+      "org": "legacy",
+      "name": "Employer/employer-acoms-client",
+      "owner": "techbreeze",
+      "portfolio": "Group Web",
+      "appInfo": "OA Employer",
+      "notes" : "Critical"
+    },
+    {
+      "org": "legacy",
+      "name": "Employer/employerui",
+      "owner": "techbreeze",
+      "portfolio": "Group Web",
+      "appInfo": "OA Employer",
+      "notes" : "Critical"
+    },
+    {
+      "org": "legacy",
+      "name": "Employer/employermiddleware",
+      "owner": "techbreeze",
+      "portfolio": "Group Web",
+      "appInfo": "OA Employer",
+      "notes" : "Critical"
+    },
+    {
+      "org": "legacy",
+      "name": "Employer/employerbillpayment",
+      "owner": "techbreeze",
+      "portfolio": "Group Web",
+      "appInfo": "OA Employer",
+      "notes" : "Critical"
+    },
+     {
+      "org": "legacy",
+      "name": "Member/memberservices",
+      "owner": "techbreeze",
+      "portfolio": "Group Web",
+      "appInfo": "OA Member",
+      "notes" : "Critical"
+    },
+     {
+      "org": "legacy",
+      "name": "Employer/postprocessingservice",
+      "owner": "techbreeze",
+      "portfolio": "Group Web",
+      "appInfo": "OA Employer",
+      "notes" : "Critical"
+    },
+     {
+      "org": "legacy",
+      "name": "Employer/transactioneventlistenerwar",
+      "owner": "techbreeze",
+      "portfolio": "Group Web",
+      "appInfo": "OA Employer",
+      "notes" : "Critical"
+    },
+     {
+      "org": "legacy",
+      "name": "Employer/employertransactioneventclient",
+      "owner": "techbreeze",
+      "portfolio": "Group Web",
+      "appInfo": "OA Employer",
+      "notes" : "Critical"
+    },
+     {
+      "org": "legacy",
+      "name": "Employer/validationservice",
+      "owner": "techbreeze",
+      "portfolio": "Group Web",
+      "appInfo": "OA Employer",
+      "notes" : "Critical"
+    },
+     {
+      "org": "legacy",
+      "name": "External Applications/findadentist",
+      "owner": "techbreeze",
+      "portfolio": "Group Web",
+      "appInfo": "Find A Dentist",
+      "notes" : "Critical"
+    },
+     {
+      "org": "legacy",
+      "name": "Employer/employerbillpayment",
+      "owner": "techbreeze",
+      "portfolio": "Group Web",
+      "appInfo": "OA Employer",
+      "notes" : "Critical"
+    },
+    {
+      "org": "legacy",
+      "name": "Member/member-components-react",
+      "owner": "salumist",
+      "portfolio": "Group Web",
+      "appInfo": "Member UI",
+      "notes" : "Critical"
+    }
+  ]
+}

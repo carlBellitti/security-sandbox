@@ -1,0 +1,122 @@
+{
+  "fields": {
+    "project": { "id": "13655" },
+    "summary": "Dependabot Alert (High): slus-internal-admin - CARL IGNORE TEST",
+    "issuetype": { "id": "10001" },
+    "assignee": {},
+    "reporter": { "id": "6352ab35e14026a7397e8f7c" },
+    "priority": { "id": "2" },
+    "description": {
+      "type": "doc",
+      "version": 1,
+      "content": [
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Source: ",
+              "marks": [{ "type": "strong" }]
+            },
+            { "type": "text", "text": "Github Dependabot" }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Organization: ",
+              "marks": [{ "type": "strong" }]
+            },
+            { "type": "text", "text": "slus-customer-experience" }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Repository: ",
+              "marks": [{ "type": "strong" }]
+            },
+            { "type": "text", "text": "slus-internal-admin" }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Package: ",
+              "marks": [{ "type": "strong" }]
+            },
+            { "type": "text", "text": "vite" }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "GHSA/ID: ",
+              "marks": [{ "type": "strong" }]
+            },
+            { "type": "text", "text": " GHSA-gcx4-mw62-g8wm" }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Severity: ",
+              "marks": [{ "type": "strong" }]
+            },
+            { "type": "text", "text": "High" }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Origin Date: ",
+              "marks": [{ "type": "strong" }]
+            },
+            { "type": "text", "text": "04-23-2024" }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Fix Version: ",
+              "marks": [{ "type": "strong" }]
+            },
+            { "type": "text", "text": "4.22.4 (NPM)" }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Info: ",
+              "marks": [{ "type": "strong" }]
+            },
+            { "type": "text", "text": " " },
+            {
+              "type": "inlineCard",
+              "attrs": {
+                "Url": "https://github.com/advisories/GHSA-gcx4-mw62-g8wm"
+              }
+            },
+            { "type": "text", "text": " " }
+          ]
+        }
+      ]
+    }
+  }
+}

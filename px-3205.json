@@ -1,0 +1,36 @@
+{
+  "expand": "renderedFields,names,schema,operations,editmeta,changelog,versionedRepresentations",
+  "id": "2484664",
+  "self": "https://sunlife.atlassian.net/rest/api/3/issue/2484664",
+  "key": "SAUG-114",
+  "fields": {
+    "summary": "Dependabot Alert (MODERATE): digix-protobuf-go",
+    "customfield_24140": "2025-09-09",
+    "customfield_24141": "GH-digix-protobuf-go-golang.org/x/net-GHSA-qxp5-gwg8-xv66-CVE-2025-22870-2025-03-13",
+    "priority": {
+      "self": "https://sunlife.atlassian.net/rest/api/3/priority/3",
+      "iconUrl": "https://sunlife.atlassian.net/images/icons/priorities/medium.svg",
+      "name": "Medium",
+      "id": "3"
+    },
+    "customfield_24137": {
+      "self": "https://sunlife.atlassian.net/rest/api/3/customFieldOption/299675",
+      "value": "Morse Coders",
+      "id": "299675"
+    },
+    "status": {
+      "self": "https://sunlife.atlassian.net/rest/api/3/status/10003",
+      "description": "",
+      "iconUrl": "https://sunlife.atlassian.net/",
+      "name": "To Do",
+      "id": "10003",
+      "statusCategory": {
+        "self": "https://sunlife.atlassian.net/rest/api/3/statuscategory/2",
+        "id": 2,
+        "key": "new",
+        "colorName": "blue-gray",
+        "name": "To Do"
+      }
+    }
+  }
+}

@@ -1,0 +1,547 @@
+{
+  "teams" :{
+    "techbreeze": {
+      "displayName" : "TechBreeze",
+      "slackID" : "XXXXXXXXX",
+      "jiraTeamID": "725487",
+      "jiraEnabled": true,
+      "slackEnabled": false,
+      "teamsEnabled": false,
+      "teamsWebHookUrl": "https://prod-126.westus.logic.azure.com:443/workflows/707ed6503fb647f8a739b7edfba2b1ac/triggers/manual/paths/invoke?api-version=2016-06-01&sp=%2Ftriggers%2Fmanual%2Frun&sv=1.0&sig=PR_roeSYTZhRXEHGHDu-IXAz1mnpiTO71YnpjknVC9g"
+    },
+    "salumist": {
+      "displayName" : "Salumist",
+      "slackID" : "C02L3GBGUSC",
+      "jiraTeamID": "299672",
+      "jiraEnabled": false,
+      "slackEnabled": false,
+      "teamsEnabled": false,
+      "teamsWebHookUrl": "https://prod-37.westus.logic.azure.com:443/workflows/ceff4226c7094db18c5241a060950dd6/triggers/manual/paths/invoke?api-version=2016-06-01&sp=%2Ftriggers%2Fmanual%2Frun&sv=1.0&sig=GSkvnKogrKezI5hXO2dfAT18JDQxGLywgpkJZCKoYgE"
+    }
+  },  
+  "reposGithub": [
+    {
+      "org": "slus-customer-experience",
+      "name": "slus-health-data-workspace",
+      "owner": "milksteak",
+      "portfolio": "Health and Risk",
+      "appInfo": "HDW - Clinical 360",
+      "notes" : "DCP"
+    },
+    {
+      "org": "slus-customer-experience",
+      "name": "digix-protobuf-go",
+      "owner": "morsecoders",
+      "portfolio": "Group Web",
+      "appInfo": "Digix-Protobuf-Go",
+      "notes" : "DCP"
+    },
+    {
+      "org": "slus-customer-experience",
+      "name": "member-eoi-ui",
+      "owner": "angelSharks",
+      "portfolio": "Group Web",
+      "appInfo": "Member-EOI-UI",
+      "notes" : "DCP"
+    },
+    {
+      "org": "slus-customer-experience",
+      "name": "member-eoi-api",
+      "owner": "angelSharks",
+      "portfolio": "Group Web",
+      "appInfo": "Member-EOI-API",
+      "notes" : "DCP"
+    },
+    {
+      "org": "slus-customer-experience",
+      "name": "slus-member-eoi-ui",
+      "owner": "angelSharks",
+      "portfolio": "Group Web",
+      "appInfo": "Member-EOI-UI",
+      "notes" : "DCP"
+    },
+    {
+      "org": "slus-customer-experience",
+      "name": "slus-member-eoi-api",
+      "owner": "angelSharks",
+      "portfolio": "Group Web",
+      "appInfo": "Member-EOI-API",
+      "notes" : "DCP"
+    },
+    {
+      "org": "slus-customer-experience",
+      "name": "clover-server",
+      "owner": "krypton",
+      "portfolio": "Group Web",
+      "appInfo": "Clover Server",
+      "notes" : "DCP"
+    },
+    {
+      "org": "slus-customer-experience",
+      "name": "common-login",
+      "owner": "mindCraft",
+      "portfolio": "Group Web",
+      "appInfo": "Common Login",
+      "notes" : "DCP"
+    },
+    {
+      "org": "slus-customer-experience",
+      "name": "clover-sandboxes",
+      "owner": "krypton",
+      "portfolio": "Group Web",
+      "appInfo": "Clover Sandbox",
+      "notes" : "DCP"
+    },
+    {
+      "org": "slus-customer-experience",
+      "name": "registration-service",
+      "owner": "mindCraft",
+      "portfolio": "Group Web",
+      "appInfo": "Registration Service",
+      "notes" : "DCP"
+    },
+    {
+      "org": "slus-customer-experience",
+      "name": "digix-protobuf-node",
+      "owner": "morsecoders",
+      "portfolio": "Group Web",
+      "appInfo": "Digix-Protobuf-Node",
+      "notes" : "DCP"
+    },
+    {
+      "org": "slus-customer-experience",
+      "name": "enrollment-transformer",
+      "owner": "xenon",
+      "portfolio": "Group Web",
+      "appInfo": "Enrollment Transformer",
+      "notes" : "DCP"
+    },
+    {
+      "org": "slus-customer-experience",
+      "name": "slus-broker-portal",
+      "owner": "porkchop",
+      "portfolio": "Health and Risk",
+      "appInfo": "Broker Portal (BEX)",
+      "notes" : "DCP"
+    },
+    {
+      "org": "slus-customer-experience",
+      "name": "digix",
+      "owner": "morsecoders",
+      "portfolio": "Group Web",
+      "appInfo": "Digix",
+      "notes" : "DCP"
+    },
+    {
+      "org": "slus-customer-experience",
+      "name": "slus-auth",
+      "owner": "porkchop",
+      "portfolio": "Group Web",
+      "appInfo": "Auth Service",
+      "notes" : "DCP"
+    },
+    {
+      "org": "slus-customer-experience",
+      "name": "digix-protobuf",
+      "owner": "morsecoders",
+      "portfolio": "Group Web",
+      "appInfo": "Digix Protobuf",
+      "notes" : "DCP"
+    },
+    {
+      "org": "dailyFeats",
+      "name": "auto-case-load",
+      "owner": "flamingPotatoes",
+      "portfolio": "Maxwell",
+      "appInfo": "APM0004694 app.maxwellhealth.com",
+      "notes" : "To be retired in 2026"
+    },
+    {
+      "org": "dailyFeats",
+      "name": "maxwell-node-common",
+      "owner": "flamingPotatoes",
+      "portfolio": "Maxwell",
+      "appInfo": "APM0004694 app.maxwellhealth.com",
+      "notes" : "To be retired in 2026"
+    },
+    {
+      "org": "dailyFeats",
+      "name": "maxwell-titan",
+      "owner": "falcon",
+      "portfolio": "Maxwell",
+      "appInfo": "APM0004694 app.maxwellhealth.com",
+      "notes" : "To be retired in 2026"
+    },
+    {
+      "org": "dailyFeats",
+      "name": "flax",
+      "owner": "tabasco",
+      "portfolio": "Maxwell",
+      "appInfo": "APM0004694 app.maxwellhealth.com",
+      "notes" : "To be retired in 2026"
+    },
+    {
+      "org": "dailyFeats",
+      "name": "go-common",
+      "owner": "falcon",
+      "portfolio": "Group Web",
+      "appInfo": "Go Common Library",
+      "notes" : ""
+    },
+    {
+      "org": "dailyFeats",
+      "name": "go-mysql-migrate",
+      "owner": "falcon",
+      "portfolio": "Group Web",
+      "appInfo": "APMXXXXXX",
+      "notes" : ""
+    },
+    {
+      "org": "dailyFeats",
+      "name": "internaladmin",
+      "owner": "falcon",
+      "portfolio": "Maxwell",
+      "appInfo": "APM0004694 app.maxwellhealth.com",
+      "notes" : "To be retired in 2026"
+    },
+    {
+      "org": "dailyFeats",
+      "name": "hr-admin",
+      "owner": "tabasco",
+      "portfolio": "Maxwell",
+      "appInfo": "APM0004694 app.maxwellhealth.com",
+      "notes" : "To be retired in 2026"
+    },
+    {
+      "org": "dailyFeats",
+      "name": "charon",
+      "owner": "flamingPotatoes",
+      "portfolio": "Maxwell",
+      "appInfo": "APM0004694 app.maxwellhealth.com",
+      "notes" : "To be retired in 2026"
+    },
+    {
+      "org": "dailyFeats",
+      "name": "maxwell-mobile",
+      "owner": "milksteak",
+      "portfolio": "Maxwell",
+      "appInfo": "APM0004694 app.maxwellhealth.com",
+      "notes" : "To be retired in 2026"
+    },
+    {
+      "org": "dailyFeats",
+      "name": "partner-middleware",
+      "owner": "xenon",
+      "portfolio": "Maxwell",
+      "appInfo": "APM0004694 app.maxwellhealth.com",
+      "notes" : "To be retired in 2026"
+    },
+    {
+      "org": "dailyFeats",
+      "name": "core",
+      "owner": "falcon",
+      "portfolio": "Maxwell",
+      "appInfo": "APM0004694 app.maxwellhealth.com",
+      "notes" : "To be retired in 2026"
+    },
+    {
+      "org": "dailyFeats",
+      "name": "arca",
+      "owner": "falcon",
+      "portfolio": "Maxwell",
+      "appInfo": "APM0004694 app.maxwellhealth.com",
+      "notes" : "To be retired in 2026"
+    },
+    {
+      "org": "dailyFeats",
+      "name": "prince",
+      "owner": "xenon",
+      "portfolio": "Maxwell",
+      "appInfo": "APM0004694 app.maxwellhealth.com",
+      "notes" : "To be retired in 2026"
+    },
+    {
+      "org": "dailyFeats",
+      "name": "maxwell-forms",
+      "owner": "porkchop",
+      "portfolio": "Maxwell",
+      "appInfo": "APM0004694 app.maxwellhealth.com",
+      "notes" : "To be retired in 2026"
+    },
+    {
+      "org": "dailyFeats",
+      "name": "geras",
+      "owner": "flamingPotatoes",
+      "portfolio": "Maxwell",
+      "appInfo": "APM0004694 app.maxwellhealth.com",
+      "notes" : "To be retired in 2026"
+    },
+    {
+      "org": "dailyFeats",
+      "name": "protos",
+      "owner": "xenon",
+      "portfolio": "Maxwell",
+      "appInfo": "APM0004694 app.maxwellhealth.com",
+      "notes" : "To be retired in 2026"
+    },
+    {
+      "org": "dailyFeats",
+      "name": "neo",
+      "owner": "xenon",
+      "portfolio": "Maxwell",
+      "appInfo": "APM0004694 app.maxwellhealth.com",
+      "notes" : "To be retired in 2026"
+    },
+    {
+      "org": "dailyFeats",
+      "name": "hera",
+      "owner": "xenon",
+      "portfolio": "Maxwell",
+      "appInfo": "APM0004694 app.maxwellhealth.com",
+      "notes" : "To be retired in 2026"
+    },
+    {
+      "org": "dailyFeats",
+      "name": "slfus-client-onboard",
+      "owner": "tabasco",
+      "portfolio": "Group Web",
+      "appInfo": "APMXXXXXX-Sun Life Onboard",
+      "notes" : ""
+    },
+    {
+      "org": "dailyFeats",
+      "name": "jambon",
+      "owner": "xenon",
+      "portfolio": "Maxwell",
+      "appInfo": "APM0004694 app.maxwellhealth.com",
+      "notes" : "To be retired in 2026"
+    },
+    {
+      "org": "dailyFeats",
+      "name": "titan-base",
+      "owner": "falcon",
+      "portfolio": "Maxwell",
+      "appInfo": "APM0004694 app.maxwellhealth.com",
+      "notes" : "To be retired in 2026"
+    },
+    {
+      "org": "dailyFeats",
+      "name": "member",
+      "owner": "milksteak",
+      "portfolio": "Maxwell",
+      "appInfo": "APM0004694 app.maxwellhealth.com",
+      "notes" : "To be retired in 2026"
+    },
+    {
+      "org": "dailyFeats",
+      "name": "auth",
+      "owner": "falcon",
+      "portfolio": "Maxwell",
+      "appInfo": "APM0004694 app.maxwellhealth.com",
+      "notes" : "To be retired in 2026"
+    },
+    {
+      "org": "dailyFeats",
+      "name": "tempo",
+      "owner": "flamingPotatoes",
+      "portfolio": "Maxwell",
+      "appInfo": "APM0004694 app.maxwellhealth.com",
+      "notes" : "To be retired in 2026"
+    },
+    {
+      "org": "slus-customer-experience",
+      "name": "slus-employer-portal",
+      "owner": "wombats",
+      "portfolio": "Group Web",
+      "appInfo": "APMXXXXXX",
+      "notes" : ""
+    },
+    {
+      "org": "slus-customer-experience",
+      "name": "slus-internal-admin",
+      "owner": "porkchop",
+      "portfolio": "Health and Risk",
+      "appInfo": "APMXXXXX",
+      "notes" : ""
+    },
+    {
+      "org": "dailyFeats",
+      "name": "xeroxd",
+      "owner": "falcon",
+      "portfolio": "Maxwell",
+      "appInfo": "APM0004694 app.maxwellhealth.com",
+      "notes" : "To be retired in 2026"
+    },
+    {
+      "org": "dailyFeats",
+      "name": "xerox",
+      "owner": "falcon",
+      "portfolio": "Maxwell",
+      "appInfo": "APM0004694 app.maxwellhealth.com",
+      "notes" : "To be retired in 2026"
+    },
+    {
+      "org": "dailyFeats",
+      "name": "titanjanitor",
+      "owner": "falcon",
+      "portfolio": "Maxwell",
+      "appInfo": "APM0004694 app.maxwellhealth.com",
+      "notes" : "To be retired in 2026"
+    },
+    {
+      "org": "slus-enterprise-components",
+      "name": "slus-domain-components",
+      "owner": "componentLibrary",
+      "portfolio": "Group Web",
+      "appInfo": "Component Library - Domain",
+      "notes" : ""
+    },
+    {
+      "org": "slus-enterprise-components",
+      "name": "slus-helios-components",
+      "owner": "componentLibrary",
+      "portfolio": "Group Web",
+      "appInfo": "Component Library - Helios",
+      "notes" : ""
+    },
+    {
+      "org": "slus-enterprise-components",
+      "name": "slus-component-library",
+      "owner": "componentLibrary",
+      "portfolio": "Group Web",
+      "appInfo": "Component Library - US",
+      "notes" : ""
+    },
+    {
+      "org": "slus-customer-experience",
+      "name": "slus-member-portal",
+      "owner": "salumist",
+      "portfolio": "Group Web",
+      "appInfo": "SLF Member App",
+      "notes" : "DCP"
+    }
+  ],
+  "reposAWS": [],
+  "reposNonGitHub":[
+    {
+      "org": "legacy",
+      "name": "External Applications/slconnect",
+      "owner": "techbreeze",
+      "portfolio": "Group Web",
+      "appInfo": "Sun Life Connect",
+      "notes" : "Critical"
+    },
+    {
+      "org": "legacy",
+      "name": "Employer/commons",
+      "owner": "techbreeze",
+      "portfolio": "Group Web",
+      "appInfo": "OA Employer",
+      "notes" : "Critical"
+    },
+    {
+      "org": "legacy",
+      "name": "Employer/slc-employer",
+      "owner": "techbreeze",
+      "portfolio": "Group Web",
+      "appInfo": "OA Employer",
+      "notes" : "Critical"
+    },
+    {
+      "org": "legacy",
+      "name": "Employer/employer-acoms-client",
+      "owner": "techbreeze",
+      "portfolio": "Group Web",
+      "appInfo": "OA Employer",
+      "notes" : "Critical"
+    },
+    {
+      "org": "legacy",
+      "name": "Employer/employerui",
+      "owner": "techbreeze",
+      "portfolio": "Group Web",
+      "appInfo": "OA Employer",
+      "notes" : "Critical"
+    },
+    {
+      "org": "legacy",
+      "name": "Employer/employermiddleware",
+      "owner": "techbreeze",
+      "portfolio": "Group Web",
+      "appInfo": "OA Employer",
+      "notes" : "Critical"
+    },
+    {
+      "org": "legacy",
+      "name": "Employer/employerbillpayment",
+      "owner": "techbreeze",
+      "portfolio": "Group Web",
+      "appInfo": "OA Employer",
+      "notes" : "Critical"
+    },
+     {
+      "org": "legacy",
+      "name": "Member/memberservices",
+      "owner": "techbreeze",
+      "portfolio": "Group Web",
+      "appInfo": "OA Member",
+      "notes" : "Critical"
+    },
+     {
+      "org": "legacy",
+      "name": "Employer/postprocessingservice",
+      "owner": "techbreeze",
+      "portfolio": "Group Web",
+      "appInfo": "OA Employer",
+      "notes" : "Critical"
+    },
+     {
+      "org": "legacy",
+      "name": "Employer/transactioneventlistenerwar",
+      "owner": "techbreeze",
+      "portfolio": "Group Web",
+      "appInfo": "OA Employer",
+      "notes" : "Critical"
+    },
+     {
+      "org": "legacy",
+      "name": "Employer/employertransactioneventclient",
+      "owner": "techbreeze",
+      "portfolio": "Group Web",
+      "appInfo": "OA Employer",
+      "notes" : "Critical"
+    },
+     {
+      "org": "legacy",
+      "name": "Employer/validationservice",
+      "owner": "techbreeze",
+      "portfolio": "Group Web",
+      "appInfo": "OA Employer",
+      "notes" : "Critical"
+    },
+     {
+      "org": "legacy",
+      "name": "External Applications/findadentist",
+      "owner": "techbreeze",
+      "portfolio": "Group Web",
+      "appInfo": "Find A Dentist",
+      "notes" : "Critical"
+    },
+     {
+      "org": "legacy",
+      "name": "Employer/employerbillpayment",
+      "owner": "techbreeze",
+      "portfolio": "Group Web",
+      "appInfo": "OA Employer",
+      "notes" : "Critical"
+    },
+    {
+      "org": "legacy",
+      "name": "Member/member-components-react",
+      "owner": "salumist",
+      "portfolio": "Group Web",
+      "appInfo": "Member UI",
+      "notes" : "Critical"
+    }
+  ]
+}

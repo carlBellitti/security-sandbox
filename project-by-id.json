@@ -1,0 +1,56 @@
+{
+  "jsonapi": { "version": "1.0" },
+  "data": {
+    "type": "project",
+    "id": "dfdc2b4f-fa89-4e59-9afe-58fb57884be1",
+    "meta": {},
+    "attributes": {
+      "name": "External Applications/slconnect(development):slc-batch-ear/build.gradle",
+      "type": "gradle",
+      "target_file": "slc-batch-ear/build.gradle",
+      "target_reference": "development",
+      "origin": "bitbucket-server",
+      "created": "2025-02-20T12:12:58.590Z",
+      "status": "active",
+      "business_criticality": [],
+      "environment": [],
+      "lifecycle": [],
+      "tags": [
+        { "key": "APM", "value": "APM0002437" },
+        { "key": "TagUpdate", "value": "08-04-2025" }
+      ],
+      "read_only": false,
+      "settings": {
+        "recurring_tests": { "frequency": "daily" },
+        "pull_requests": {}
+      }
+    },
+    "relationships": {
+      "organization": {
+        "data": { "type": "org", "id": "273207b3-636c-46c5-8e3a-11cc200e9892" },
+        "links": { "related": "/orgs/273207b3-636c-46c5-8e3a-11cc200e9892" }
+      },
+      "target": {
+        "data": {
+          "type": "target",
+          "id": "41fa2dec-23b1-4c36-9b97-0140b5fe49e5"
+        },
+        "links": {
+          "related": "/orgs/273207b3-636c-46c5-8e3a-11cc200e9892/targets/41fa2dec-23b1-4c36-9b97-0140b5fe49e5"
+        }
+      },
+      "importer": {
+        "data": {
+          "type": "user",
+          "id": "35af2ee3-c30f-458f-9926-d6c1c14460cb"
+        },
+        "links": {
+          "related": "/orgs/273207b3-636c-46c5-8e3a-11cc200e9892/users/35af2ee3-c30f-458f-9926-d6c1c14460cb"
+        }
+      }
+    }
+  },
+  "links": {
+    "self": "/orgs/273207b3-636c-46c5-8e3a-11cc200e9892/projects/dfdc2b4f-fa89-4e59-9afe-58fb57884be1?version=2024-06-10"
+  }
+}

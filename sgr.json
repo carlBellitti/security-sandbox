@@ -1,0 +1,3853 @@
+{
+  "expand": "renderedFields,names,schema,operations,editmeta,changelog,versionedRepresentations,customfield_37165.cmdb.label,customfield_37165.cmdb.objectKey,customfield_37165.cmdb.attributes,customfield_37164.cmdb.label,customfield_37164.cmdb.objectKey,customfield_37164.cmdb.attributes,customfield_37163.cmdb.label,customfield_37163.cmdb.objectKey,customfield_37163.cmdb.attributes,customfield_37162.cmdb.label,customfield_37162.cmdb.objectKey,customfield_37162.cmdb.attributes,customfield_10010.requestTypePractice,customfield_49421.cmdb.label,customfield_49421.cmdb.objectKey,customfield_49421.cmdb.attributes,customfield_54334.cmdb.label,customfield_54334.cmdb.objectKey,customfield_54334.cmdb.attributes",
+  "id": "1963511",
+  "self": "https://sunlife.atlassian.net/rest/api/3/issue/1963511",
+  "key": "SGR-1143",
+  "fields": {
+    "customfield_43551": null,
+    "customfield_43552": null,
+    "customfield_43553": null,
+    "customfield_44400": null,
+    "customfield_43554": null,
+    "customfield_44401": null,
+    "customfield_43550": null,
+    "customfield_43548": null,
+    "customfield_43545": null,
+    "customfield_43546": null,
+    "customfield_43547": null,
+    "customfield_44410": null,
+    "lastViewed": "2025-01-13T09:30:32.636-0500",
+    "customfield_44411": null,
+    "customfield_44412": null,
+    "customfield_43560": null,
+    "customfield_43561": null,
+    "customfield_10620": null,
+    "customfield_10610": null,
+    "customfield_10611": null,
+    "customfield_10612": null,
+    "customfield_10613": null,
+    "customfield_10614": null,
+    "aggregatetimeoriginalestimate": null,
+    "customfield_10615": null,
+    "customfield_10616": null,
+    "customfield_10617": null,
+    "customfield_43559": null,
+    "customfield_44406": null,
+    "customfield_10618": null,
+    "customfield_44407": null,
+    "customfield_10619": null,
+    "customfield_44408": null,
+    "issuelinks": [],
+    "customfield_44409": null,
+    "customfield_43555": null,
+    "customfield_44402": null,
+    "customfield_43556": null,
+    "customfield_44403": null,
+    "customfield_44404": null,
+    "customfield_43558": null,
+    "customfield_44405": null,
+    "customfield_44420": null,
+    "customfield_44421": null,
+    "customfield_44423": null,
+    "customfield_24819": null,
+    "customfield_10605": null,
+    "customfield_10606": null,
+    "customfield_44417": null,
+    "customfield_44418": null,
+    "customfield_10608": null,
+    "customfield_44419": null,
+    "customfield_10609": null,
+    "customfield_44413": null,
+    "customfield_44415": null,
+    "customfield_44416": null,
+    "customfield_43584": null,
+    "customfield_43585": null,
+    "customfield_43586": null,
+    "customfield_43587": null,
+    "subtasks": [],
+    "customfield_43583": null,
+    "customfield_43111": null,
+    "customfield_43595": null,
+    "customfield_43112": null,
+    "customfield_43113": null,
+    "customfield_43114": null,
+    "customfield_43593": null,
+    "customfield_43594": null,
+    "customfield_36813": null,
+    "customfield_43589": null,
+    "customfield_43122": null,
+    "customfield_20860": null,
+    "customfield_43124": null,
+    "customfield_17690": null,
+    "customfield_43125": null,
+    "customfield_43120": null,
+    "customfield_43121": null,
+    "customfield_36829": {
+      "self": "https://sunlife.atlassian.net/rest/api/3/customFieldOption/529287",
+      "value": "No",
+      "id": "529287"
+    },
+    "customfield_36828": {
+      "self": "https://sunlife.atlassian.net/rest/api/3/customFieldOption/529284",
+      "value": "No",
+      "id": "529284"
+    },
+    "customfield_36827": {
+      "self": "https://sunlife.atlassian.net/rest/api/3/customFieldOption/529279",
+      "value": "Not Started",
+      "id": "529279"
+    },
+    "customfield_36826": {
+      "self": "https://sunlife.atlassian.net/rest/api/3/customFieldOption/529275",
+      "value": "Not Started",
+      "id": "529275"
+    },
+    "customfield_36825": {
+      "self": "https://sunlife.atlassian.net/rest/api/3/customFieldOption/529271",
+      "value": "Not Started",
+      "id": "529271"
+    },
+    "customfield_36824": null,
+    "customfield_36831": null,
+    "customfield_36830": null,
+    "customfield_43119": null,
+    "customfield_43599": null,
+    "customfield_24851": null,
+    "customfield_43117": null,
+    "customfield_43118": null,
+    "customfield_25701": null,
+    "customfield_24856": null,
+    "customfield_43135": null,
+    "customfield_44467": null,
+    "customfield_45797": null,
+    "customfield_43130": null,
+    "customfield_43126": null,
+    "customfield_44457": null,
+    "customfield_43127": null,
+    "customfield_43128": null,
+    "customfield_43129": null,
+    "customfield_43144": null,
+    "customfield_43145": {
+      "self": "https://sunlife.atlassian.net/rest/api/3/customFieldOption/607583",
+      "value": "All",
+      "id": "607583"
+    },
+    "customfield_43146": "Not estimated",
+    "customfield_43147": null,
+    "customfield_43140": null,
+    "customfield_43143": null,
+    "customfield_36847": null,
+    "customfield_36846": null,
+    "customfield_25290": null,
+    "customfield_25291": null,
+    "customfield_26146": null,
+    "customfield_43944": null,
+    "customfield_43945": null,
+    "customfield_43946": null,
+    "customfield_43940": null,
+    "customfield_43941": null,
+    "customfield_43942": null,
+    "customfield_43943": null,
+    "customfield_43961": null,
+    "customfield_38139": null,
+    "customfield_10214": null,
+    "customfield_27481": null,
+    "timeestimate": null,
+    "customfield_43959": null,
+    "customfield_27486": null,
+    "customfield_27485": null,
+    "customfield_26157": null,
+    "customfield_43955": null,
+    "customfield_27488": null,
+    "customfield_43956": null,
+    "customfield_27487": null,
+    "customfield_43957": null,
+    "customfield_43958": null,
+    "customfield_27489": null,
+    "customfield_43953": null,
+    "customfield_43954": null,
+    "customfield_43970": null,
+    "customfield_43971": null,
+    "customfield_38140": null,
+    "customfield_43972": null,
+    "customfield_38141": null,
+    "customfield_38142": null,
+    "customfield_38145": null,
+    "customfield_38146": null,
+    "customfield_38147": null,
+    "customfield_38148": null,
+    "customfield_27491": null,
+    "customfield_27490": null,
+    "customfield_10206": null,
+    "customfield_43966": null,
+    "customfield_43967": null,
+    "customfield_43968": null,
+    "customfield_27017": null,
+    "customfield_43969": null,
+    "customfield_43962": null,
+    "customfield_43963": null,
+    "customfield_27018": null,
+    "customfield_43964": null,
+    "customfield_43965": null,
+    "customfield_43980": null,
+    "customfield_43981": null,
+    "customfield_43982": null,
+    "customfield_43983": null,
+    "customfield_38154": null,
+    "customfield_38155": null,
+    "customfield_38156": null,
+    "customfield_38157": null,
+    "customfield_10680": "Stitch",
+    "customfield_10681": null,
+    "customfield_10200": null,
+    "customfield_10684": null,
+    "customfield_10202": null,
+    "customfield_10676": null,
+    "customfield_10677": null,
+    "customfield_10679": null,
+    "customfield_43977": null,
+    "customfield_43978": null,
+    "customfield_43973": null,
+    "customfield_43974": null,
+    "customfield_43975": null,
+    "customfield_43976": null,
+    "customfield_43991": null,
+    "customfield_43992": null,
+    "customfield_43993": null,
+    "customfield_43510": null,
+    "customfield_43994": null,
+    "customfield_43990": null,
+    "customfield_10671": null,
+    "customfield_10672": null,
+    "aggregatetimespent": null,
+    "customfield_43508": null,
+    "customfield_10669": null,
+    "customfield_43509": null,
+    "customfield_43504": null,
+    "customfield_43988": null,
+    "customfield_43505": null,
+    "customfield_43989": null,
+    "customfield_43506": null,
+    "customfield_43507": null,
+    "customfield_43500": null,
+    "customfield_43984": null,
+    "customfield_43501": null,
+    "customfield_43985": null,
+    "customfield_43502": null,
+    "customfield_43986": null,
+    "customfield_43503": null,
+    "customfield_43987": null,
+    "customfield_40492": null,
+    "customfield_11990": null,
+    "customfield_10654": null,
+    "customfield_11985": null,
+    "customfield_10655": null,
+    "customfield_11988": null,
+    "customfield_11987": null,
+    "customfield_43519": null,
+    "customfield_11989": null,
+    "customfield_43515": null,
+    "customfield_43999": null,
+    "customfield_43516": null,
+    "customfield_43511": null,
+    "customfield_43995": null,
+    "customfield_43512": null,
+    "customfield_43996": null,
+    "customfield_43513": null,
+    "customfield_43997": null,
+    "customfield_43514": null,
+    "customfield_43998": null,
+    "customfield_43530": null,
+    "customfield_11980": null,
+    "customfield_11982": null,
+    "customfield_11984": null,
+    "customfield_10652": null,
+    "customfield_11983": "@sunlife.com",
+    "customfield_10643": null,
+    "customfield_11974": null,
+    "customfield_10644": null,
+    "customfield_10645": null,
+    "customfield_10646": null,
+    "customfield_10647": null,
+    "customfield_43527": null,
+    "customfield_43528": null,
+    "customfield_43522": null,
+    "customfield_43523": null,
+    "customfield_43524": null,
+    "customfield_30224": null,
+    "customfield_10640": null,
+    "customfield_10642": null,
+    "customfield_10632": null,
+    "customfield_10633": null,
+    "customfield_10634": null,
+    "customfield_10636": null,
+    "customfield_10637": null,
+    "customfield_10638": null,
+    "customfield_10639": null,
+    "customfield_38520": null,
+    "customfield_38521": null,
+    "customfield_38524": null,
+    "customfield_38526": null,
+    "customfield_38518": null,
+    "customfield_38519": null,
+    "customfield_25694": null,
+    "customfield_10187": null,
+    "customfield_39867": null,
+    "customfield_38536": null,
+    "labels": ["RR-Medium", "Stitch"],
+    "customfield_37207": null,
+    "customfield_37206": null,
+    "customfield_37204": null,
+    "customfield_23007": null,
+    "customfield_31909": null,
+    "customfield_38540": null,
+    "customfield_38541": null,
+    "customfield_38542": null,
+    "customfield_38543": null,
+    "customfield_38544": null,
+    "customfield_38545": null,
+    "customfield_38546": null,
+    "customfield_38547": null,
+    "customfield_37209": null,
+    "customfield_38548": null,
+    "customfield_38549": null,
+    "customfield_37216": null,
+    "customfield_37215": null,
+    "customfield_37214": null,
+    "customfield_37213": null,
+    "customfield_37212": null,
+    "customfield_37211": null,
+    "customfield_37210": null,
+    "customfield_38550": null,
+    "customfield_31917": null,
+    "customfield_38551": null,
+    "customfield_38552": "@sunlife.com",
+    "customfield_38553": null,
+    "customfield_38554": null,
+    "reporter": {
+      "self": "https://sunlife.atlassian.net/rest/api/3/user?accountId=6322a375cf721d09b016aa42",
+      "accountId": "6322a375cf721d09b016aa42",
+      "emailAddress": "shivam.khatri@sunlife.com",
+      "avatarUrls": {
+        "48x48": "https://secure.gravatar.com/avatar/19c4a87708e30a8f39708a981a77d58d?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FSK-0.png",
+        "24x24": "https://secure.gravatar.com/avatar/19c4a87708e30a8f39708a981a77d58d?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FSK-0.png",
+        "16x16": "https://secure.gravatar.com/avatar/19c4a87708e30a8f39708a981a77d58d?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FSK-0.png",
+        "32x32": "https://secure.gravatar.com/avatar/19c4a87708e30a8f39708a981a77d58d?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FSK-0.png"
+      },
+      "displayName": "Shivam Khatri",
+      "active": true,
+      "timeZone": "Europe/Dublin",
+      "accountType": "atlassian"
+    },
+    "customfield_38555": null,
+    "customfield_38556": null,
+    "customfield_38557": null,
+    "customfield_38559": null,
+    "customfield_28758": null,
+    "customfield_28757": null,
+    "customfield_38562": null,
+    "customfield_38563": null,
+    "customfield_10150": null,
+    "customfield_38564": null,
+    "customfield_38565": null,
+    "customfield_38566": null,
+    "customfield_38567": null,
+    "customfield_14514": null,
+    "customfield_10157": null,
+    "customfield_43904": null,
+    "customfield_28761": null,
+    "customfield_43905": null,
+    "customfield_28762": null,
+    "customfield_25253": null,
+    "customfield_43907": null,
+    "customfield_28760": null,
+    "customfield_28765": null,
+    "customfield_43901": null,
+    "customfield_28766": null,
+    "customfield_43902": null,
+    "customfield_28763": null,
+    "customfield_43903": null,
+    "customfield_28764": null,
+    "customfield_28767": null,
+    "customfield_28768": null,
+    "customfield_38570": null,
+    "customfield_38574": null,
+    "customfield_38575": null,
+    "customfield_38576": null,
+    "customfield_38579": null,
+    "customfield_43919": null,
+    "customfield_28777": null,
+    "customfield_28775": {
+      "self": "https://sunlife.atlassian.net/rest/api/3/customFieldOption/369993",
+      "value": "No",
+      "id": "369993"
+    },
+    "updated": "2024-11-27T11:20:33.165-0500",
+    "customfield_28779": null,
+    "customfield_38580": null,
+    "customfield_38581": null,
+    "customfield_38583": null,
+    "customfield_38100": null,
+    "customfield_38584": null,
+    "customfield_38585": null,
+    "customfield_38586": null,
+    "customfield_38587": null,
+    "customfield_11463": null,
+    "customfield_38588": null,
+    "customfield_11465": null,
+    "customfield_11464": null,
+    "customfield_28783": null,
+    "customfield_43928": null,
+    "customfield_28781": null,
+    "customfield_43929": null,
+    "customfield_28782": null,
+    "customfield_28787": null,
+    "customfield_28788": null,
+    "customfield_28785": null,
+    "customfield_28786": null,
+    "customfield_28789": null,
+    "customfield_38590": null,
+    "customfield_38591": null,
+    "customfield_38592": null,
+    "customfield_38593": null,
+    "customfield_38594": null,
+    "customfield_38595": null,
+    "customfield_38596": null,
+    "customfield_38598": null,
+    "customfield_38599": null,
+    "customfield_10120": null,
+    "customfield_11454": null,
+    "customfield_11453": null,
+    "customfield_11456": null,
+    "customfield_11455": null,
+    "customfield_28790": null,
+    "customfield_28791": null,
+    "customfield_11449": null,
+    "customfield_28794": null,
+    "customfield_43938": null,
+    "customfield_28795": null,
+    "customfield_43939": null,
+    "customfield_28792": null,
+    "customfield_28793": null,
+    "customfield_43933": null,
+    "customfield_28798": null,
+    "customfield_43934": null,
+    "customfield_28799": null,
+    "customfield_43935": null,
+    "customfield_28796": null,
+    "customfield_28797": null,
+    "customfield_43930": null,
+    "customfield_43931": null,
+    "customfield_43932": null,
+    "customfield_43034": null,
+    "customfield_44365": null,
+    "statuscategorychangedate": "2024-08-13T09:50:49.542-0400",
+    "customfield_43035": null,
+    "customfield_44366": null,
+    "customfield_43036": null,
+    "customfield_44367": null,
+    "customfield_43037": null,
+    "customfield_44368": null,
+    "customfield_43030": null,
+    "customfield_44361": null,
+    "customfield_43031": null,
+    "customfield_44362": null,
+    "customfield_43032": null,
+    "customfield_44363": null,
+    "customfield_43033": null,
+    "customfield_44364": null,
+    "customfield_44360": null,
+    "customfield_43027": null,
+    "customfield_44358": null,
+    "customfield_43028": null,
+    "customfield_44359": null,
+    "customfield_43029": null,
+    "customfield_43045": null,
+    "customfield_44376": null,
+    "customfield_43046": null,
+    "customfield_44377": null,
+    "customfield_43047": null,
+    "customfield_44378": null,
+    "customfield_43048": null,
+    "customfield_44379": {
+      "type": "doc",
+      "version": 1,
+      "content": [
+        {
+          "type": "paragraph",
+          "content": [{ "type": "text", "text": "Outcome:" }]
+        },
+        {
+          "type": "paragraph",
+          "content": [{ "type": "text", "text": "Output:" }]
+        },
+        {
+          "type": "paragraph",
+          "content": [{ "type": "text", "text": "Key Contact:" }]
+        },
+        {
+          "type": "paragraph",
+          "content": [{ "type": "text", "text": "Location of files:" }]
+        }
+      ]
+    },
+    "customfield_44372": null,
+    "customfield_43042": null,
+    "customfield_44373": null,
+    "customfield_43043": null,
+    "customfield_44374": null,
+    "customfield_43044": null,
+    "customfield_44370": null,
+    "customfield_43040": null,
+    "customfield_44371": null,
+    "priority": {
+      "self": "https://sunlife.atlassian.net/rest/api/3/priority/3",
+      "iconUrl": "https://sunlife.atlassian.net/images/icons/priorities/medium.svg",
+      "name": "Medium",
+      "id": "3"
+    },
+    "customfield_43038": null,
+    "customfield_44369": null,
+    "customfield_43039": null,
+    "customfield_43056": null,
+    "customfield_43057": null,
+    "customfield_44388": null,
+    "customfield_43058": null,
+    "customfield_44389": null,
+    "customfield_43053": null,
+    "customfield_44384": null,
+    "customfield_43054": null,
+    "customfield_43055": null,
+    "customfield_44386": null,
+    "customfield_44380": null,
+    "customfield_43051": null,
+    "customfield_25635": null,
+    "customfield_44398": null,
+    "customfield_24305": null,
+    "customfield_43068": null,
+    "customfield_44399": null,
+    "customfield_24306": null,
+    "customfield_43063": null,
+    "customfield_44394": null,
+    "customfield_43064": "Carl Bellitti",
+    "customfield_44395": null,
+    "customfield_44397": null,
+    "customfield_44390": null,
+    "customfield_43060": null,
+    "customfield_44391": null,
+    "customfield_43061": null,
+    "customfield_44392": null,
+    "customfield_43062": null,
+    "customfield_44393": null,
+    "customfield_36772": null,
+    "customfield_43078": {
+      "self": "https://sunlife.atlassian.net/rest/api/3/customFieldOption/606937",
+      "value": "No",
+      "id": "606937"
+    },
+    "customfield_25649": null,
+    "customfield_43077": "2024-08-13",
+    "customfield_43070": null,
+    "customfield_43071": null,
+    "customfield_43089": {
+      "self": "https://sunlife.atlassian.net/rest/api/3/customFieldOption/607012",
+      "value": "0",
+      "id": "607012"
+    },
+    "customfield_11070": null,
+    "created": "2024-08-13T09:50:47.841-0400",
+    "customfield_11074": [
+      {
+        "self": "https://sunlife.atlassian.net/rest/api/3/customFieldOption/51635",
+        "value": "Space Editor",
+        "id": "51635"
+      }
+    ],
+    "customfield_43088": {
+      "self": "https://sunlife.atlassian.net/rest/api/3/customFieldOption/606998",
+      "value": "0",
+      "id": "606998"
+    },
+    "customfield_43083": {
+      "self": "https://sunlife.atlassian.net/rest/api/3/customFieldOption/606983",
+      "value": "Webservice Development (NEW)",
+      "id": "606983"
+    },
+    "customfield_43092": {
+      "self": "https://sunlife.atlassian.net/rest/api/3/customFieldOption/607040",
+      "value": "Advisor",
+      "id": "607040"
+    },
+    "customfield_11065": null,
+    "customfield_11066": null,
+    "customfield_43094": {
+      "self": "https://sunlife.atlassian.net/rest/api/3/customFieldOption/607057",
+      "value": "Not Required",
+      "id": "607057"
+    },
+    "customfield_38500": null,
+    "customfield_43095": {
+      "self": "https://sunlife.atlassian.net/rest/api/3/customFieldOption/607080",
+      "value": "Others",
+      "id": "607080"
+    },
+    "customfield_38501": null,
+    "customfield_38502": null,
+    "customfield_38503": null,
+    "customfield_43090": {
+      "self": "https://sunlife.atlassian.net/rest/api/3/customFieldOption/607026",
+      "value": "0",
+      "id": "607026"
+    },
+    "customfield_38504": null,
+    "customfield_38505": null,
+    "attachment": [],
+    "customfield_26529": null,
+    "customfield_38510": null,
+    "customfield_38511": null,
+    "customfield_38512": null,
+    "customfield_38513": null,
+    "customfield_38514": null,
+    "customfield_11059": null,
+    "customfield_38515": null,
+    "customfield_38516": null,
+    "customfield_38506": null,
+    "customfield_38507": null,
+    "customfield_34154": null,
+    "customfield_43431": null,
+    "customfield_43432": null,
+    "customfield_38085": null,
+    "customfield_43433": null,
+    "customfield_38089": null,
+    "customfield_10510": null,
+    "customfield_11840": null,
+    "customfield_10500": null,
+    "customfield_10501": null,
+    "customfield_10502": null,
+    "customfield_10503": null,
+    "customfield_10504": {
+      "type": "doc",
+      "version": 1,
+      "content": [
+        {
+          "type": "paragraph",
+          "content": [{ "type": "text", "text": "Findings:" }]
+        },
+        {
+          "type": "paragraph",
+          "content": [{ "type": "text", "text": "Next Steps:" }]
+        }
+      ]
+    },
+    "customfield_10508": {
+      "self": "https://sunlife.atlassian.net/rest/api/3/customFieldOption/22795",
+      "value": "No",
+      "id": "22795"
+    },
+    "customfield_43427": null,
+    "customfield_10509": null,
+    "customfield_43428": null,
+    "customfield_22966": null,
+    "customfield_43423": {
+      "type": "doc",
+      "version": 1,
+      "content": [
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "https://sunlife.atlassian.net/wiki/spaces/ADSO/pages/12646057466/Jira+-+DevOps+Ticketing",
+              "marks": [
+                {
+                  "type": "link",
+                  "attrs": {
+                    "href": "https://sunlife.atlassian.net/wiki/spaces/ADSO/pages/12646057466/Jira+-+DevOps+Ticketing"
+                  }
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "customfield_43424": "https://sunlife.atlassian.net/wiki/spaces/ADSO/pages/12646057466/Jira+-+DevOps+Ticketing",
+    "customfield_43425": {
+      "self": "https://sunlife.atlassian.net/rest/api/3/customFieldOption/611575",
+      "value": "No",
+      "id": "611575"
+    },
+    "customfield_43441": null,
+    "customfield_38095": null,
+    "customfield_38096": null,
+    "customfield_43438": null,
+    "customfield_43439": null,
+    "assignee": {
+      "self": "https://sunlife.atlassian.net/rest/api/3/user?accountId=6065eb3d95acf80071ae2cf4",
+      "accountId": "6065eb3d95acf80071ae2cf4",
+      "emailAddress": "emanuel.lorusso@sunlife.com",
+      "avatarUrls": {
+        "48x48": "https://secure.gravatar.com/avatar/12305187170d8519eed5d9703c334d34?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FEL-4.png",
+        "24x24": "https://secure.gravatar.com/avatar/12305187170d8519eed5d9703c334d34?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FEL-4.png",
+        "16x16": "https://secure.gravatar.com/avatar/12305187170d8519eed5d9703c334d34?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FEL-4.png",
+        "32x32": "https://secure.gravatar.com/avatar/12305187170d8519eed5d9703c334d34?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FEL-4.png"
+      },
+      "displayName": "Emanuel Lorusso",
+      "active": true,
+      "timeZone": "America/Toronto",
+      "accountType": "atlassian"
+    },
+    "customfield_43434": null,
+    "customfield_38090": null,
+    "customfield_43435": null,
+    "customfield_43436": null,
+    "customfield_38092": null,
+    "customfield_43437": null,
+    "customfield_38093": null,
+    "customfield_43452": null,
+    "customfield_44300": null,
+    "customfield_44301": null,
+    "customfield_44302": null,
+    "customfield_41275": null,
+    "customfield_43450": null,
+    "customfield_34983": null,
+    "customfield_44310": null,
+    "customfield_44311": null,
+    "customfield_44312": null,
+    "customfield_44313": null,
+    "customfield_43460": null,
+    "customfield_33662": null,
+    "customfield_44307": null,
+    "customfield_44308": null,
+    "customfield_44309": null,
+    "customfield_44303": null,
+    "customfield_43457": null,
+    "customfield_44304": null,
+    "customfield_44305": null,
+    "customfield_44306": null,
+    "customfield_44321": null,
+    "customfield_43475": null,
+    "customfield_44323": null,
+    "customfield_43477": null,
+    "customfield_44324": null,
+    "customfield_43470": null,
+    "customfield_44320": null,
+    "customfield_10941": null,
+    "customfield_10944": [
+      {
+        "self": "https://sunlife.atlassian.net/rest/api/3/customFieldOption/51632",
+        "value": "Agile Team",
+        "id": "51632"
+      }
+    ],
+    "customfield_44318": null,
+    "customfield_44319": null,
+    "customfield_44314": null,
+    "customfield_44316": null,
+    "customfield_44317": null,
+    "customfield_43485": null,
+    "customfield_44332": null,
+    "customfield_43486": null,
+    "customfield_44333": null,
+    "customfield_43487": null,
+    "customfield_44334": null,
+    "customfield_43488": null,
+    "customfield_44335": null,
+    "customfield_43481": null,
+    "customfield_43482": null,
+    "customfield_43483": null,
+    "customfield_44330": null,
+    "customfield_43484": null,
+    "customfield_44331": null,
+    "customfield_43480": null,
+    "customfield_34534": {
+      "self": "https://sunlife.atlassian.net/rest/api/3/customFieldOption/528514",
+      "value": "AEM",
+      "id": "528514"
+    },
+    "customfield_10935": null,
+    "customfield_10936": null,
+    "customfield_44329": null,
+    "customfield_43478": null,
+    "customfield_43479": null,
+    "customfield_43496": null,
+    "customfield_43497": null,
+    "customfield_24735": null,
+    "customfield_43498": null,
+    "customfield_43499": null,
+    "customfield_44346": null,
+    "customfield_43492": null,
+    "customfield_26916": null,
+    "customfield_43493": null,
+    "customfield_43494": null,
+    "customfield_44341": null,
+    "customfield_43495": null,
+    "customfield_44342": null,
+    "customfield_43490": null,
+    "customfield_43491": null,
+    "customfield_34537": null,
+    "customfield_10929": null,
+    "customfield_43489": null,
+    "customfield_44336": null,
+    "customfield_44339": null,
+    "customfield_44354": null,
+    "customfield_24745": null,
+    "customfield_43024": null,
+    "customfield_44355": null,
+    "customfield_43025": null,
+    "customfield_43026": null,
+    "customfield_44357": null,
+    "customfield_44350": null,
+    "customfield_44351": null,
+    "customfield_43021": null,
+    "customfield_44352": null,
+    "customfield_43022": null,
+    "customfield_44353": null,
+    "customfield_44347": null,
+    "customfield_44348": null,
+    "customfield_25601": null,
+    "customfield_44349": null,
+    "customfield_42982": null,
+    "customfield_42981": null,
+    "customfield_42980": null,
+    "customfield_10590": null,
+    "customfield_38008": null,
+    "customfield_10588": null,
+    "customfield_10589": null,
+    "customfield_43827": null,
+    "customfield_37159": null,
+    "customfield_43828": null,
+    "customfield_37158": null,
+    "customfield_26023": null,
+    "customfield_43829": null,
+    "customfield_37157": null,
+    "customfield_37156": null,
+    "customfield_25177": null,
+    "customfield_42975": null,
+    "customfield_43823": null,
+    "customfield_37155": null,
+    "customfield_25178": null,
+    "customfield_42974": null,
+    "customfield_43824": null,
+    "customfield_37154": null,
+    "customfield_26027": null,
+    "customfield_43825": null,
+    "customfield_43826": null,
+    "customfield_42979": null,
+    "customfield_37151": null,
+    "customfield_42978": null,
+    "customfield_43820": null,
+    "customfield_37150": null,
+    "customfield_42977": null,
+    "customfield_40799": null,
+    "customfield_43840": null,
+    "customfield_38497": null,
+    "customfield_32708": null,
+    "customfield_38498": null,
+    "customfield_38499": null,
+    "customfield_10581": null,
+    "customfield_10582": null,
+    "customfield_10583": null,
+    "customfield_10100": null,
+    "customfield_10585": null,
+    "customfield_10586": null,
+    "customfield_10587": null,
+    "customfield_10577": null,
+    "customfield_10578": null,
+    "customfield_10579": null,
+    "customfield_43838": null,
+    "customfield_43839": null,
+    "customfield_37169": null,
+    "customfield_37168": null,
+    "customfield_37167": null,
+    "customfield_42986": null,
+    "customfield_43834": null,
+    "customfield_37166": [],
+    "customfield_42985": null,
+    "customfield_43835": null,
+    "customfield_37165": [],
+    "customfield_43836": null,
+    "customfield_37164": [],
+    "customfield_42983": null,
+    "customfield_43837": null,
+    "customfield_37163": [],
+    "customfield_43830": null,
+    "customfield_37162": [],
+    "customfield_43831": null,
+    "customfield_37161": null,
+    "customfield_42988": null,
+    "customfield_37160": null,
+    "status": {
+      "self": "https://sunlife.atlassian.net/rest/api/3/status/10000",
+      "description": "",
+      "iconUrl": "https://sunlife.atlassian.net/",
+      "name": "Backlog",
+      "id": "10000",
+      "statusCategory": {
+        "self": "https://sunlife.atlassian.net/rest/api/3/statuscategory/2",
+        "id": 2,
+        "key": "new",
+        "colorName": "blue-gray",
+        "name": "To Do"
+      }
+    },
+    "customfield_42987": null,
+    "customfield_43833": null,
+    "customfield_43850": null,
+    "customfield_54508": null,
+    "customfield_43851": null,
+    "customfield_10572": null,
+    "customfield_54501": null,
+    "customfield_10573": null,
+    "customfield_10574": null,
+    "customfield_10575": null,
+    "customfield_10576": null,
+    "customfield_10567": null,
+    "customfield_10568": null,
+    "customfield_10569": null,
+    "customfield_43849": null,
+    "customfield_37178": null,
+    "customfield_43845": null,
+    "customfield_37177": null,
+    "customfield_43846": null,
+    "customfield_37176": null,
+    "customfield_43847": null,
+    "customfield_37175": null,
+    "customfield_43848": null,
+    "customfield_37174": null,
+    "customfield_43841": null,
+    "customfield_37173": null,
+    "customfield_43842": null,
+    "customfield_37172": null,
+    "customfield_43843": null,
+    "customfield_37171": null,
+    "customfield_43844": null,
+    "customfield_37170": null,
+    "customfield_43860": null,
+    "customfield_43861": null,
+    "customfield_43862": null,
+    "customfield_10562": null,
+    "customfield_10565": null,
+    "customfield_10555": null,
+    "customfield_10556": null,
+    "customfield_10558": null,
+    "customfield_10559": null,
+    "customfield_37189": null,
+    "customfield_43856": null,
+    "customfield_37188": null,
+    "customfield_43857": null,
+    "customfield_37187": null,
+    "customfield_43858": null,
+    "customfield_37186": null,
+    "customfield_43859": null,
+    "customfield_37185": null,
+    "customfield_43852": null,
+    "customfield_37184": null,
+    "customfield_43853": null,
+    "customfield_37183": null,
+    "customfield_43854": null,
+    "customfield_37182": null,
+    "customfield_43855": null,
+    "customfield_43870": null,
+    "customfield_37191": null,
+    "customfield_39371": null,
+    "customfield_43871": null,
+    "customfield_37190": null,
+    "customfield_43872": null,
+    "customfield_43873": null,
+    "customfield_41210": {
+      "self": "https://sunlife.atlassian.net/rest/api/3/customFieldOption/602281",
+      "value": "Pending",
+      "id": "602281"
+    },
+    "timespent": null,
+    "customfield_54522": null,
+    "customfield_54523": null,
+    "customfield_54528": null,
+    "customfield_10551": null,
+    "customfield_54529": null,
+    "customfield_54526": null,
+    "customfield_10544": null,
+    "customfield_10545": null,
+    "customfield_10546": null,
+    "customfield_10547": null,
+    "customfield_10548": null,
+    "customfield_54532": null,
+    "customfield_10549": null,
+    "customfield_54530": null,
+    "customfield_43867": null,
+    "customfield_43868": null,
+    "customfield_43869": null,
+    "customfield_37196": null,
+    "customfield_43863": null,
+    "customfield_43864": null,
+    "customfield_43865": null,
+    "customfield_37193": null,
+    "customfield_43866": null,
+    "customfield_37192": null,
+    "customfield_43881": null,
+    "customfield_43883": null,
+    "customfield_54519": null,
+    "customfield_43400": {
+      "self": "https://sunlife.atlassian.net/rest/api/3/customFieldOption/611435",
+      "value": "AISC",
+      "id": "611435"
+    },
+    "customfield_43884": null,
+    "customfield_43880": null,
+    "customfield_54513": null,
+    "customfield_54511": null,
+    "customfield_54512": null,
+    "customfield_54517": null,
+    "customfield_54518": null,
+    "customfield_10541": {
+      "self": "https://sunlife.atlassian.net/rest/api/3/customFieldOption/23595",
+      "value": "Finance",
+      "id": "23595",
+      "child": {
+        "self": "https://sunlife.atlassian.net/rest/api/3/customFieldOption/23599",
+        "value": "MFE-Manual Feeds Entry",
+        "id": "23599"
+      }
+    },
+    "customfield_54515": null,
+    "customfield_10542": {
+      "self": "https://sunlife.atlassian.net/rest/api/3/customFieldOption/23621",
+      "value": "Actuarial",
+      "id": "23621",
+      "child": {
+        "self": "https://sunlife.atlassian.net/rest/api/3/customFieldOption/23664",
+        "value": "Other",
+        "id": "23664"
+      }
+    },
+    "customfield_10543": null,
+    "customfield_10533": null,
+    "customfield_26071": null,
+    "customfield_54520": null,
+    "customfield_10537": [],
+    "customfield_54521": null,
+    "customfield_43878": null,
+    "customfield_43879": null,
+    "customfield_43874": null,
+    "customfield_43875": null,
+    "customfield_43876": null,
+    "customfield_43877": null,
+    "customfield_43892": null,
+    "customfield_43893": null,
+    "customfield_43410": {
+      "self": "https://sunlife.atlassian.net/rest/api/3/customFieldOption/611563",
+      "value": "Not yet available",
+      "id": "611563"
+    },
+    "customfield_43894": null,
+    "customfield_43411": {
+      "self": "https://sunlife.atlassian.net/rest/api/3/customFieldOption/611569",
+      "value": "SUN",
+      "id": "611569"
+    },
+    "customfield_43895": null,
+    "customfield_43890": null,
+    "customfield_43891": null,
+    "customfield_54546": "{panel:|bgColor=#dceaff}\r\nh3. {color:#172B4D}*Optional Fields*{color}\r\n{panel}",
+    "customfield_54547": null,
+    "customfield_54544": null,
+    "customfield_54545": null,
+    "customfield_54549": null,
+    "customfield_10532": null,
+    "customfield_10522": null,
+    "customfield_54550": null,
+    "customfield_43409": 0.0,
+    "customfield_10527": "9.0",
+    "customfield_54551": null,
+    "customfield_26088": null,
+    "customfield_54552": null,
+    "customfield_10529": null,
+    "customfield_43406": {
+      "self": "https://sunlife.atlassian.net/rest/api/3/customFieldOption/611558",
+      "value": "Shell",
+      "id": "611558"
+    },
+    "customfield_43407": {
+      "self": "https://sunlife.atlassian.net/rest/api/3/customFieldOption/611557",
+      "value": "No",
+      "id": "611557"
+    },
+    "customfield_43408": {
+      "self": "https://sunlife.atlassian.net/rest/api/3/customFieldOption/611562",
+      "value": "No",
+      "id": "611562"
+    },
+    "customfield_43401": {
+      "self": "https://sunlife.atlassian.net/rest/api/3/customFieldOption/611511",
+      "value": "Jan-2020",
+      "id": "611511"
+    },
+    "customfield_43885": null,
+    "customfield_43402": {
+      "self": "https://sunlife.atlassian.net/rest/api/3/customFieldOption/611523",
+      "value": "Strategy and One Sun Life",
+      "id": "611523"
+    },
+    "customfield_43886": null,
+    "customfield_43403": [
+      {
+        "self": "https://sunlife.atlassian.net/rest/api/3/customFieldOption/611534",
+        "value": "Technology",
+        "id": "611534"
+      }
+    ],
+    "customfield_43887": null,
+    "customfield_43404": "2024-08-13",
+    "customfield_43888": null,
+    "customfield_43420": {
+      "type": "doc",
+      "version": 1,
+      "content": [
+        { "type": "paragraph", "content": [{ "type": "text", "text": "-" }] }
+      ]
+    },
+    "customfield_43421": {
+      "self": "https://sunlife.atlassian.net/rest/api/3/customFieldOption/611573",
+      "value": "No",
+      "id": "611573"
+    },
+    "customfield_43422": {
+      "self": "https://sunlife.atlassian.net/rest/api/3/customFieldOption/611571",
+      "value": "No",
+      "id": "611571"
+    },
+    "customfield_54535": null,
+    "customfield_32768": null,
+    "customfield_54536": null,
+    "customfield_54533": null,
+    "customfield_54539": null,
+    "customfield_11852": null,
+    "customfield_54537": null,
+    "customfield_11851": null,
+    "customfield_10512": null,
+    "customfield_11844": null,
+    "customfield_54542": null,
+    "customfield_54543": null,
+    "customfield_11849": null,
+    "customfield_54540": null,
+    "customfield_10518": null,
+    "customfield_54541": null,
+    "customfield_10519": null,
+    "customfield_43416": {
+      "type": "doc",
+      "version": 1,
+      "content": [
+        { "type": "paragraph", "content": [{ "type": "text", "text": "-" }] }
+      ]
+    },
+    "customfield_43417": {
+      "type": "doc",
+      "version": 1,
+      "content": [
+        { "type": "paragraph", "content": [{ "type": "text", "text": "-" }] }
+      ]
+    },
+    "customfield_43418": {
+      "type": "doc",
+      "version": 1,
+      "content": [
+        { "type": "paragraph", "content": [{ "type": "text", "text": "-" }] }
+      ]
+    },
+    "customfield_43419": {
+      "type": "doc",
+      "version": 1,
+      "content": [
+        { "type": "paragraph", "content": [{ "type": "text", "text": "-" }] }
+      ]
+    },
+    "customfield_43412": {
+      "self": "https://sunlife.atlassian.net/rest/api/3/customFieldOption/611540",
+      "value": "To Do",
+      "id": "611540"
+    },
+    "customfield_43896": null,
+    "customfield_43413": {
+      "type": "doc",
+      "version": 1,
+      "content": [
+        { "type": "paragraph", "content": [{ "type": "text", "text": "-" }] }
+      ]
+    },
+    "customfield_43897": null,
+    "customfield_43414": {
+      "type": "doc",
+      "version": 1,
+      "content": [
+        { "type": "paragraph", "content": [{ "type": "text", "text": "-" }] }
+      ]
+    },
+    "customfield_43898": null,
+    "customfield_43415": {
+      "type": "doc",
+      "version": 1,
+      "content": [
+        { "type": "paragraph", "content": [{ "type": "text", "text": "-" }] }
+      ]
+    },
+    "customfield_43899": null,
+    "customfield_27749": null,
+    "customfield_27748": 0.0,
+    "customfield_10074": null,
+    "customfield_10077": null,
+    "customfield_34045": null,
+    "customfield_25571": null,
+    "customfield_27750": null,
+    "customfield_27752": null,
+    "customfield_27754": null,
+    "customfield_27753": null,
+    "customfield_24246": null,
+    "customfield_24247": null,
+    "customfield_27755": null,
+    "customfield_24248": null,
+    "customfield_24249": null,
+    "customfield_38409": null,
+    "customfield_24251": null,
+    "customfield_24252": null,
+    "customfield_24253": null,
+    "customfield_24254": null,
+    "customfield_24255": null,
+    "customfield_24256": null,
+    "customfield_24257": null,
+    "customfield_24258": null,
+    "customfield_24259": null,
+    "components": [],
+    "customfield_10050": [
+      {
+        "self": "https://sunlife.atlassian.net/rest/api/3/customFieldOption/10068",
+        "value": "PRODUCTION",
+        "id": "10068"
+      }
+    ],
+    "customfield_10054": null,
+    "customfield_10056": " ",
+    "customfield_10049": null,
+    "customfield_24260": null,
+    "customfield_24261": null,
+    "customfield_24262": null,
+    "customfield_10040": null,
+    "customfield_10044": "2024-08-13",
+    "customfield_10046": null,
+    "customfield_10038": null,
+    "customfield_37108": null,
+    "customfield_37107": null,
+    "customfield_37106": null,
+    "customfield_37104": null,
+    "customfield_37103": null,
+    "customfield_37102": null,
+    "customfield_37101": null,
+    "customfield_37100": null,
+    "progress": { "progress": 0, "total": 0 },
+    "customfield_34072": null,
+    "customfield_38443": null,
+    "customfield_10030": null,
+    "customfield_38444": null,
+    "customfield_10031": null,
+    "project": {
+      "self": "https://sunlife.atlassian.net/rest/api/3/project/10720",
+      "id": "10720",
+      "key": "SGR",
+      "name": "2555 – Security Gap Remediation",
+      "projectTypeKey": "software",
+      "simplified": false,
+      "avatarUrls": {
+        "48x48": "https://sunlife.atlassian.net/rest/api/3/universal_avatar/view/type/project/avatar/10412",
+        "24x24": "https://sunlife.atlassian.net/rest/api/3/universal_avatar/view/type/project/avatar/10412?size=small",
+        "16x16": "https://sunlife.atlassian.net/rest/api/3/universal_avatar/view/type/project/avatar/10412?size=xsmall",
+        "32x32": "https://sunlife.atlassian.net/rest/api/3/universal_avatar/view/type/project/avatar/10412?size=medium"
+      }
+    },
+    "customfield_10032": null,
+    "customfield_10036": null,
+    "customfield_10037": null,
+    "customfield_37109": null,
+    "customfield_37119": null,
+    "customfield_37118": null,
+    "customfield_10029": null,
+    "customfield_37117": null,
+    "customfield_37116": null,
+    "customfield_37112": null,
+    "customfield_37110": null,
+    "customfield_10020": [
+      {
+        "id": 42767,
+        "name": "Groomed Backlog",
+        "state": "future",
+        "boardId": 8556,
+        "goal": "",
+        "startDate": "2024-01-01T00:00:00.000Z",
+        "endDate": "2025-12-31T03:30:00.000Z"
+      }
+    ],
+    "customfield_10021": null,
+    "customfield_10022": null,
+    "customfield_10023": null,
+    "customfield_10026": 5.0,
+    "customfield_10016": null,
+    "customfield_10017": null,
+    "customfield_42949": null,
+    "customfield_37129": null,
+    "customfield_10018": {
+      "hasEpicLinkFieldDependency": false,
+      "showField": false,
+      "nonEditableReason": {
+        "reason": "EPIC_LINK_SHOULD_BE_USED",
+        "message": "To set an epic as the parent, use the epic link instead"
+      }
+    },
+    "customfield_10019": "2|hzmczj:",
+    "customfield_37127": null,
+    "customfield_37126": null,
+    "customfield_37125": null,
+    "customfield_37124": null,
+    "customfield_37122": null,
+    "customfield_37121": null,
+    "customfield_37120": null,
+    "customfield_42960": null,
+    "customfield_40781": null,
+    "customfield_40782": null,
+    "customfield_10492": null,
+    "customfield_10010": null,
+    "customfield_10496": null,
+    "customfield_10497": null,
+    "customfield_10014": "MSK-4689",
+    "customfield_10498": null,
+    "customfield_10015": null,
+    "customfield_10005": null,
+    "customfield_10489": null,
+    "customfield_42959": null,
+    "customfield_42958": null,
+    "customfield_37138": null,
+    "customfield_37137": null,
+    "customfield_37136": null,
+    "customfield_37135": null,
+    "customfield_26000": null,
+    "customfield_43808": null,
+    "customfield_37134": null,
+    "customfield_42953": null,
+    "customfield_43801": null,
+    "customfield_37133": null,
+    "customfield_42952": null,
+    "customfield_26002": null,
+    "customfield_37132": null,
+    "customfield_42951": null,
+    "customfield_37131": null,
+    "customfield_42950": null,
+    "customfield_42957": null,
+    "customfield_42956": null,
+    "customfield_42955": null,
+    "customfield_42954": null,
+    "summary": "AVIT0010980 - Stitch - Enumeration Attack ",
+    "customfield_42971": null,
+    "customfield_42970": null,
+    "customfield_40790": null,
+    "customfield_10481": null,
+    "customfield_10000": "{}",
+    "customfield_10001": null,
+    "customfield_10002": [],
+    "customfield_10003": null,
+    "customfield_42969": null,
+    "customfield_37149": null,
+    "customfield_43816": null,
+    "customfield_37148": null,
+    "customfield_11329": null,
+    "customfield_43817": null,
+    "customfield_37147": null,
+    "customfield_43818": null,
+    "customfield_37146": null,
+    "customfield_43819": null,
+    "customfield_37145": null,
+    "customfield_42964": null,
+    "customfield_43812": null,
+    "customfield_37144": null,
+    "customfield_40785": null,
+    "customfield_26497": null,
+    "customfield_37143": null,
+    "customfield_40786": null,
+    "customfield_42962": null,
+    "customfield_43814": null,
+    "customfield_37142": null,
+    "comment": {
+      "comments": [
+        {
+          "self": "https://sunlife.atlassian.net/rest/api/3/issue/1963511/comment/2963612",
+          "id": "2963612",
+          "author": {
+            "self": "https://sunlife.atlassian.net/rest/api/3/user?accountId=6065eb3d95acf80071ae2cf4",
+            "accountId": "6065eb3d95acf80071ae2cf4",
+            "emailAddress": "emanuel.lorusso@sunlife.com",
+            "avatarUrls": {
+              "48x48": "https://secure.gravatar.com/avatar/12305187170d8519eed5d9703c334d34?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FEL-4.png",
+              "24x24": "https://secure.gravatar.com/avatar/12305187170d8519eed5d9703c334d34?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FEL-4.png",
+              "16x16": "https://secure.gravatar.com/avatar/12305187170d8519eed5d9703c334d34?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FEL-4.png",
+              "32x32": "https://secure.gravatar.com/avatar/12305187170d8519eed5d9703c334d34?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FEL-4.png"
+            },
+            "displayName": "Emanuel Lorusso",
+            "active": true,
+            "timeZone": "America/Toronto",
+            "accountType": "atlassian"
+          },
+          "body": {
+            "type": "doc",
+            "version": 1,
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "mention",
+                    "attrs": {
+                      "id": "6322a375cf721d09b016aa42",
+                      "text": "@Shivam Khatri",
+                      "accessLevel": "",
+                      "localId": "73e58dee-6c9b-4399-9c44-5716ccfbbb62"
+                    }
+                  },
+                  { "type": "text", "text": " " },
+                  {
+                    "type": "mention",
+                    "attrs": {
+                      "id": "6352ab35e14026a7397e8f7c",
+                      "text": "@Carl Bellitti",
+                      "accessLevel": "",
+                      "localId": "7036e275-20c4-4789-81d0-f4ec154f4c0a"
+                    }
+                  },
+                  {
+                    "type": "text",
+                    "text": " Do you have any suggestions on how to resolve this? After looking at it, it looks like the company code signup flow is part of the product design and is needed in order to have users register with the correct company. Even if we switch the api response to a redirect, one would still be able to differentiate between a valid and invalid code based on the kind of redirect or error. Further, what is the concern here with people finding out valid company codes? Looks like the only data that would be seen is the company name, and what products they offer. Please advise, thank you "
+                  }
+                ]
+              }
+            ]
+          },
+          "updateAuthor": {
+            "self": "https://sunlife.atlassian.net/rest/api/3/user?accountId=6065eb3d95acf80071ae2cf4",
+            "accountId": "6065eb3d95acf80071ae2cf4",
+            "emailAddress": "emanuel.lorusso@sunlife.com",
+            "avatarUrls": {
+              "48x48": "https://secure.gravatar.com/avatar/12305187170d8519eed5d9703c334d34?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FEL-4.png",
+              "24x24": "https://secure.gravatar.com/avatar/12305187170d8519eed5d9703c334d34?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FEL-4.png",
+              "16x16": "https://secure.gravatar.com/avatar/12305187170d8519eed5d9703c334d34?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FEL-4.png",
+              "32x32": "https://secure.gravatar.com/avatar/12305187170d8519eed5d9703c334d34?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FEL-4.png"
+            },
+            "displayName": "Emanuel Lorusso",
+            "active": true,
+            "timeZone": "America/Toronto",
+            "accountType": "atlassian"
+          },
+          "created": "2024-09-05T11:08:23.620-0400",
+          "updated": "2024-09-05T11:08:23.620-0400",
+          "jsdPublic": true
+        },
+        {
+          "self": "https://sunlife.atlassian.net/rest/api/3/issue/1963511/comment/3091563",
+          "id": "3091563",
+          "author": {
+            "self": "https://sunlife.atlassian.net/rest/api/3/user?accountId=6065eb3d95acf80071ae2cf4",
+            "accountId": "6065eb3d95acf80071ae2cf4",
+            "emailAddress": "emanuel.lorusso@sunlife.com",
+            "avatarUrls": {
+              "48x48": "https://secure.gravatar.com/avatar/12305187170d8519eed5d9703c334d34?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FEL-4.png",
+              "24x24": "https://secure.gravatar.com/avatar/12305187170d8519eed5d9703c334d34?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FEL-4.png",
+              "16x16": "https://secure.gravatar.com/avatar/12305187170d8519eed5d9703c334d34?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FEL-4.png",
+              "32x32": "https://secure.gravatar.com/avatar/12305187170d8519eed5d9703c334d34?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FEL-4.png"
+            },
+            "displayName": "Emanuel Lorusso",
+            "active": true,
+            "timeZone": "America/Toronto",
+            "accountType": "atlassian"
+          },
+          "body": {
+            "type": "doc",
+            "version": 1,
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "mention",
+                    "attrs": {
+                      "id": "6322a375cf721d09b016aa42",
+                      "text": "@Shivam Khatri",
+                      "accessLevel": "",
+                      "localId": "30d21a01-8069-4221-b5d1-ab6dbee3e0a9"
+                    }
+                  },
+                  {
+                    "type": "text",
+                    "text": " have you had a chance to review this ticket?"
+                  }
+                ]
+              }
+            ]
+          },
+          "updateAuthor": {
+            "self": "https://sunlife.atlassian.net/rest/api/3/user?accountId=6065eb3d95acf80071ae2cf4",
+            "accountId": "6065eb3d95acf80071ae2cf4",
+            "emailAddress": "emanuel.lorusso@sunlife.com",
+            "avatarUrls": {
+              "48x48": "https://secure.gravatar.com/avatar/12305187170d8519eed5d9703c334d34?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FEL-4.png",
+              "24x24": "https://secure.gravatar.com/avatar/12305187170d8519eed5d9703c334d34?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FEL-4.png",
+              "16x16": "https://secure.gravatar.com/avatar/12305187170d8519eed5d9703c334d34?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FEL-4.png",
+              "32x32": "https://secure.gravatar.com/avatar/12305187170d8519eed5d9703c334d34?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FEL-4.png"
+            },
+            "displayName": "Emanuel Lorusso",
+            "active": true,
+            "timeZone": "America/Toronto",
+            "accountType": "atlassian"
+          },
+          "created": "2024-10-07T10:20:13.952-0400",
+          "updated": "2024-10-07T10:20:13.952-0400",
+          "jsdPublic": true
+        },
+        {
+          "self": "https://sunlife.atlassian.net/rest/api/3/issue/1963511/comment/3091997",
+          "id": "3091997",
+          "author": {
+            "self": "https://sunlife.atlassian.net/rest/api/3/user?accountId=6322a375cf721d09b016aa42",
+            "accountId": "6322a375cf721d09b016aa42",
+            "emailAddress": "shivam.khatri@sunlife.com",
+            "avatarUrls": {
+              "48x48": "https://secure.gravatar.com/avatar/19c4a87708e30a8f39708a981a77d58d?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FSK-0.png",
+              "24x24": "https://secure.gravatar.com/avatar/19c4a87708e30a8f39708a981a77d58d?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FSK-0.png",
+              "16x16": "https://secure.gravatar.com/avatar/19c4a87708e30a8f39708a981a77d58d?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FSK-0.png",
+              "32x32": "https://secure.gravatar.com/avatar/19c4a87708e30a8f39708a981a77d58d?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FSK-0.png"
+            },
+            "displayName": "Shivam Khatri",
+            "active": true,
+            "timeZone": "Europe/Dublin",
+            "accountType": "atlassian"
+          },
+          "body": {
+            "type": "doc",
+            "version": 1,
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "mention",
+                    "attrs": {
+                      "id": "6322a2dac7601c8e4abf6bf9",
+                      "text": "@Andy Graverson",
+                      "accessLevel": "",
+                      "localId": "0a69b135-1877-4e14-9cd1-24be56db0d57"
+                    }
+                  },
+                  {
+                    "type": "text",
+                    "text": " This finding is Company code enumeration attack. According to comment below comment from Emanuel, company code and product data is not considered sensitive info. What can we do in this case?"
+                  }
+                ]
+              }
+            ]
+          },
+          "updateAuthor": {
+            "self": "https://sunlife.atlassian.net/rest/api/3/user?accountId=6322a375cf721d09b016aa42",
+            "accountId": "6322a375cf721d09b016aa42",
+            "emailAddress": "shivam.khatri@sunlife.com",
+            "avatarUrls": {
+              "48x48": "https://secure.gravatar.com/avatar/19c4a87708e30a8f39708a981a77d58d?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FSK-0.png",
+              "24x24": "https://secure.gravatar.com/avatar/19c4a87708e30a8f39708a981a77d58d?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FSK-0.png",
+              "16x16": "https://secure.gravatar.com/avatar/19c4a87708e30a8f39708a981a77d58d?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FSK-0.png",
+              "32x32": "https://secure.gravatar.com/avatar/19c4a87708e30a8f39708a981a77d58d?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FSK-0.png"
+            },
+            "displayName": "Shivam Khatri",
+            "active": true,
+            "timeZone": "Europe/Dublin",
+            "accountType": "atlassian"
+          },
+          "created": "2024-10-07T11:22:02.228-0400",
+          "updated": "2024-10-07T11:22:02.228-0400",
+          "jsdPublic": true
+        },
+        {
+          "self": "https://sunlife.atlassian.net/rest/api/3/issue/1963511/comment/3092149",
+          "id": "3092149",
+          "author": {
+            "self": "https://sunlife.atlassian.net/rest/api/3/user?accountId=6322a2dac7601c8e4abf6bf9",
+            "accountId": "6322a2dac7601c8e4abf6bf9",
+            "emailAddress": "andy.graverson@sunlife.com",
+            "avatarUrls": {
+              "48x48": "https://secure.gravatar.com/avatar/dfc13e87475e871f72597cae66e1291a?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FAG-0.png",
+              "24x24": "https://secure.gravatar.com/avatar/dfc13e87475e871f72597cae66e1291a?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FAG-0.png",
+              "16x16": "https://secure.gravatar.com/avatar/dfc13e87475e871f72597cae66e1291a?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FAG-0.png",
+              "32x32": "https://secure.gravatar.com/avatar/dfc13e87475e871f72597cae66e1291a?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FAG-0.png"
+            },
+            "displayName": "Andy Graverson",
+            "active": true,
+            "timeZone": "America/Toronto",
+            "accountType": "atlassian"
+          },
+          "body": {
+            "type": "doc",
+            "version": 1,
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "mention",
+                    "attrs": {
+                      "id": "6065eb3d95acf80071ae2cf4",
+                      "text": "@Emanuel Lorusso",
+                      "accessLevel": "",
+                      "localId": "190fc54f-8e2e-4ab4-a03a-f66dc443ef19"
+                    }
+                  },
+                  { "type": "text", "text": " " },
+                  {
+                    "type": "mention",
+                    "attrs": {
+                      "id": "6322a375cf721d09b016aa42",
+                      "text": "@Shivam Khatri",
+                      "accessLevel": "",
+                      "localId": "350994e6-f656-4e43-96c5-b712a7e95dd9"
+                    }
+                  },
+                  { "type": "text", "text": " " }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "If Company Code is NOT publicly available information, then we must find a way to protect it.  Allowing a threat actor to harvest valid company codes could be used to facilitate another attack."
+                  }
+                ]
+              }
+            ]
+          },
+          "updateAuthor": {
+            "self": "https://sunlife.atlassian.net/rest/api/3/user?accountId=6322a2dac7601c8e4abf6bf9",
+            "accountId": "6322a2dac7601c8e4abf6bf9",
+            "emailAddress": "andy.graverson@sunlife.com",
+            "avatarUrls": {
+              "48x48": "https://secure.gravatar.com/avatar/dfc13e87475e871f72597cae66e1291a?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FAG-0.png",
+              "24x24": "https://secure.gravatar.com/avatar/dfc13e87475e871f72597cae66e1291a?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FAG-0.png",
+              "16x16": "https://secure.gravatar.com/avatar/dfc13e87475e871f72597cae66e1291a?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FAG-0.png",
+              "32x32": "https://secure.gravatar.com/avatar/dfc13e87475e871f72597cae66e1291a?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FAG-0.png"
+            },
+            "displayName": "Andy Graverson",
+            "active": true,
+            "timeZone": "America/Toronto",
+            "accountType": "atlassian"
+          },
+          "created": "2024-10-07T11:50:57.919-0400",
+          "updated": "2024-10-07T11:50:57.919-0400",
+          "jsdPublic": true
+        },
+        {
+          "self": "https://sunlife.atlassian.net/rest/api/3/issue/1963511/comment/3092298",
+          "id": "3092298",
+          "author": {
+            "self": "https://sunlife.atlassian.net/rest/api/3/user?accountId=6065eb3d95acf80071ae2cf4",
+            "accountId": "6065eb3d95acf80071ae2cf4",
+            "emailAddress": "emanuel.lorusso@sunlife.com",
+            "avatarUrls": {
+              "48x48": "https://secure.gravatar.com/avatar/12305187170d8519eed5d9703c334d34?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FEL-4.png",
+              "24x24": "https://secure.gravatar.com/avatar/12305187170d8519eed5d9703c334d34?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FEL-4.png",
+              "16x16": "https://secure.gravatar.com/avatar/12305187170d8519eed5d9703c334d34?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FEL-4.png",
+              "32x32": "https://secure.gravatar.com/avatar/12305187170d8519eed5d9703c334d34?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FEL-4.png"
+            },
+            "displayName": "Emanuel Lorusso",
+            "active": true,
+            "timeZone": "America/Toronto",
+            "accountType": "atlassian"
+          },
+          "body": {
+            "type": "doc",
+            "version": 1,
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "mention",
+                    "attrs": {
+                      "id": "6322a2dac7601c8e4abf6bf9",
+                      "text": "@Andy Graverson",
+                      "accessLevel": "",
+                      "localId": "f4fd4d9a-56c0-40ec-889c-cf38eb13f13f"
+                    }
+                  },
+                  { "type": "text", "text": " " },
+                  {
+                    "type": "mention",
+                    "attrs": {
+                      "id": "6322a375cf721d09b016aa42",
+                      "text": "@Shivam Khatri",
+                      "accessLevel": "",
+                      "localId": "05c5f508-37cd-4376-b196-8d5d1c7d06bf"
+                    }
+                  },
+                  {
+                    "type": "text",
+                    "text": " I understand, but this is designed into how the product itself and how it is sold to our customers. Changing this is a significant effort, especially for a product that is being retired in a year, and would need more involvement from the product team. The company codes only purpose is to facilitate user signup, and I guess I’m asking for more specifics on what the perceived risks are to someone harvesting all the company codes? In my eyes, this might as well be public information, and I’m struggling to see the harm here."
+                  }
+                ]
+              }
+            ]
+          },
+          "updateAuthor": {
+            "self": "https://sunlife.atlassian.net/rest/api/3/user?accountId=6065eb3d95acf80071ae2cf4",
+            "accountId": "6065eb3d95acf80071ae2cf4",
+            "emailAddress": "emanuel.lorusso@sunlife.com",
+            "avatarUrls": {
+              "48x48": "https://secure.gravatar.com/avatar/12305187170d8519eed5d9703c334d34?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FEL-4.png",
+              "24x24": "https://secure.gravatar.com/avatar/12305187170d8519eed5d9703c334d34?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FEL-4.png",
+              "16x16": "https://secure.gravatar.com/avatar/12305187170d8519eed5d9703c334d34?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FEL-4.png",
+              "32x32": "https://secure.gravatar.com/avatar/12305187170d8519eed5d9703c334d34?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FEL-4.png"
+            },
+            "displayName": "Emanuel Lorusso",
+            "active": true,
+            "timeZone": "America/Toronto",
+            "accountType": "atlassian"
+          },
+          "created": "2024-10-07T12:26:06.939-0400",
+          "updated": "2024-10-07T12:26:06.939-0400",
+          "jsdPublic": true
+        },
+        {
+          "self": "https://sunlife.atlassian.net/rest/api/3/issue/1963511/comment/3132312",
+          "id": "3132312",
+          "author": {
+            "self": "https://sunlife.atlassian.net/rest/api/3/user?accountId=6322a2dac7601c8e4abf6bf9",
+            "accountId": "6322a2dac7601c8e4abf6bf9",
+            "emailAddress": "andy.graverson@sunlife.com",
+            "avatarUrls": {
+              "48x48": "https://secure.gravatar.com/avatar/dfc13e87475e871f72597cae66e1291a?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FAG-0.png",
+              "24x24": "https://secure.gravatar.com/avatar/dfc13e87475e871f72597cae66e1291a?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FAG-0.png",
+              "16x16": "https://secure.gravatar.com/avatar/dfc13e87475e871f72597cae66e1291a?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FAG-0.png",
+              "32x32": "https://secure.gravatar.com/avatar/dfc13e87475e871f72597cae66e1291a?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FAG-0.png"
+            },
+            "displayName": "Andy Graverson",
+            "active": true,
+            "timeZone": "America/Toronto",
+            "accountType": "atlassian"
+          },
+          "body": {
+            "type": "doc",
+            "version": 1,
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "mention",
+                    "attrs": {
+                      "id": "6065eb3d95acf80071ae2cf4",
+                      "text": "@Emanuel Lorusso",
+                      "accessLevel": "",
+                      "localId": "d1c8cf27-287f-430c-911a-58f094a3068f"
+                    }
+                  },
+                  {
+                    "type": "text",
+                    "text": " We’ll need a firm and committed date to decommission the site before we can submit for an exception.  Do we have that date yet?"
+                  }
+                ]
+              }
+            ]
+          },
+          "updateAuthor": {
+            "self": "https://sunlife.atlassian.net/rest/api/3/user?accountId=6322a2dac7601c8e4abf6bf9",
+            "accountId": "6322a2dac7601c8e4abf6bf9",
+            "emailAddress": "andy.graverson@sunlife.com",
+            "avatarUrls": {
+              "48x48": "https://secure.gravatar.com/avatar/dfc13e87475e871f72597cae66e1291a?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FAG-0.png",
+              "24x24": "https://secure.gravatar.com/avatar/dfc13e87475e871f72597cae66e1291a?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FAG-0.png",
+              "16x16": "https://secure.gravatar.com/avatar/dfc13e87475e871f72597cae66e1291a?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FAG-0.png",
+              "32x32": "https://secure.gravatar.com/avatar/dfc13e87475e871f72597cae66e1291a?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FAG-0.png"
+            },
+            "displayName": "Andy Graverson",
+            "active": true,
+            "timeZone": "America/Toronto",
+            "accountType": "atlassian"
+          },
+          "created": "2024-10-18T10:26:42.279-0400",
+          "updated": "2024-10-18T10:26:42.279-0400",
+          "jsdPublic": true
+        },
+        {
+          "self": "https://sunlife.atlassian.net/rest/api/3/issue/1963511/comment/3239621",
+          "id": "3239621",
+          "author": {
+            "self": "https://sunlife.atlassian.net/rest/api/3/user?accountId=6065eb3d95acf80071ae2cf4",
+            "accountId": "6065eb3d95acf80071ae2cf4",
+            "emailAddress": "emanuel.lorusso@sunlife.com",
+            "avatarUrls": {
+              "48x48": "https://secure.gravatar.com/avatar/12305187170d8519eed5d9703c334d34?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FEL-4.png",
+              "24x24": "https://secure.gravatar.com/avatar/12305187170d8519eed5d9703c334d34?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FEL-4.png",
+              "16x16": "https://secure.gravatar.com/avatar/12305187170d8519eed5d9703c334d34?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FEL-4.png",
+              "32x32": "https://secure.gravatar.com/avatar/12305187170d8519eed5d9703c334d34?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FEL-4.png"
+            },
+            "displayName": "Emanuel Lorusso",
+            "active": true,
+            "timeZone": "America/Toronto",
+            "accountType": "atlassian"
+          },
+          "body": {
+            "type": "doc",
+            "version": 1,
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "mention",
+                    "attrs": {
+                      "id": "6322a2dac7601c8e4abf6bf9",
+                      "text": "@Andy Graverson",
+                      "accessLevel": "",
+                      "localId": "2a0c4574-c4ef-4a90-889b-27aa3a33dbe7"
+                    }
+                  },
+                  {
+                    "type": "text",
+                    "text": " the product will decommissioned by 6/30/2026"
+                  }
+                ]
+              }
+            ]
+          },
+          "updateAuthor": {
+            "self": "https://sunlife.atlassian.net/rest/api/3/user?accountId=6065eb3d95acf80071ae2cf4",
+            "accountId": "6065eb3d95acf80071ae2cf4",
+            "emailAddress": "emanuel.lorusso@sunlife.com",
+            "avatarUrls": {
+              "48x48": "https://secure.gravatar.com/avatar/12305187170d8519eed5d9703c334d34?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FEL-4.png",
+              "24x24": "https://secure.gravatar.com/avatar/12305187170d8519eed5d9703c334d34?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FEL-4.png",
+              "16x16": "https://secure.gravatar.com/avatar/12305187170d8519eed5d9703c334d34?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FEL-4.png",
+              "32x32": "https://secure.gravatar.com/avatar/12305187170d8519eed5d9703c334d34?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FEL-4.png"
+            },
+            "displayName": "Emanuel Lorusso",
+            "active": true,
+            "timeZone": "America/Toronto",
+            "accountType": "atlassian"
+          },
+          "created": "2024-11-20T14:09:42.179-0500",
+          "updated": "2024-11-20T14:09:42.179-0500",
+          "jsdPublic": true
+        },
+        {
+          "self": "https://sunlife.atlassian.net/rest/api/3/issue/1963511/comment/3239623",
+          "id": "3239623",
+          "author": {
+            "self": "https://sunlife.atlassian.net/rest/api/3/user?accountId=6065eb3d95acf80071ae2cf4",
+            "accountId": "6065eb3d95acf80071ae2cf4",
+            "emailAddress": "emanuel.lorusso@sunlife.com",
+            "avatarUrls": {
+              "48x48": "https://secure.gravatar.com/avatar/12305187170d8519eed5d9703c334d34?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FEL-4.png",
+              "24x24": "https://secure.gravatar.com/avatar/12305187170d8519eed5d9703c334d34?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FEL-4.png",
+              "16x16": "https://secure.gravatar.com/avatar/12305187170d8519eed5d9703c334d34?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FEL-4.png",
+              "32x32": "https://secure.gravatar.com/avatar/12305187170d8519eed5d9703c334d34?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FEL-4.png"
+            },
+            "displayName": "Emanuel Lorusso",
+            "active": true,
+            "timeZone": "America/Toronto",
+            "accountType": "atlassian"
+          },
+          "body": {
+            "type": "doc",
+            "version": 1,
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "also, we only have 30 clients and less than 60 subscribers"
+                  }
+                ]
+              }
+            ]
+          },
+          "updateAuthor": {
+            "self": "https://sunlife.atlassian.net/rest/api/3/user?accountId=6065eb3d95acf80071ae2cf4",
+            "accountId": "6065eb3d95acf80071ae2cf4",
+            "emailAddress": "emanuel.lorusso@sunlife.com",
+            "avatarUrls": {
+              "48x48": "https://secure.gravatar.com/avatar/12305187170d8519eed5d9703c334d34?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FEL-4.png",
+              "24x24": "https://secure.gravatar.com/avatar/12305187170d8519eed5d9703c334d34?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FEL-4.png",
+              "16x16": "https://secure.gravatar.com/avatar/12305187170d8519eed5d9703c334d34?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FEL-4.png",
+              "32x32": "https://secure.gravatar.com/avatar/12305187170d8519eed5d9703c334d34?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FEL-4.png"
+            },
+            "displayName": "Emanuel Lorusso",
+            "active": true,
+            "timeZone": "America/Toronto",
+            "accountType": "atlassian"
+          },
+          "created": "2024-11-20T14:10:28.376-0500",
+          "updated": "2024-11-20T14:10:28.376-0500",
+          "jsdPublic": true
+        },
+        {
+          "self": "https://sunlife.atlassian.net/rest/api/3/issue/1963511/comment/3249116",
+          "id": "3249116",
+          "author": {
+            "self": "https://sunlife.atlassian.net/rest/api/3/user?accountId=6322a2dac7601c8e4abf6bf9",
+            "accountId": "6322a2dac7601c8e4abf6bf9",
+            "emailAddress": "andy.graverson@sunlife.com",
+            "avatarUrls": {
+              "48x48": "https://secure.gravatar.com/avatar/dfc13e87475e871f72597cae66e1291a?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FAG-0.png",
+              "24x24": "https://secure.gravatar.com/avatar/dfc13e87475e871f72597cae66e1291a?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FAG-0.png",
+              "16x16": "https://secure.gravatar.com/avatar/dfc13e87475e871f72597cae66e1291a?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FAG-0.png",
+              "32x32": "https://secure.gravatar.com/avatar/dfc13e87475e871f72597cae66e1291a?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FAG-0.png"
+            },
+            "displayName": "Andy Graverson",
+            "active": true,
+            "timeZone": "America/Toronto",
+            "accountType": "atlassian"
+          },
+          "body": {
+            "type": "doc",
+            "version": 1,
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "mention",
+                    "attrs": {
+                      "id": "6065eb3d95acf80071ae2cf4",
+                      "text": "@Emanuel Lorusso",
+                      "accessLevel": "",
+                      "localId": "94450cfb-e199-4cbe-bd73-8ff368fe6f08"
+                    }
+                  },
+                  {
+                    "type": "text",
+                    "text": " - The fixes are required by Feb 7, 2025.  If you wish to obtain an exception to not address these issues, a write up needs to be approved by Anand.  Thanks"
+                  }
+                ]
+              }
+            ]
+          },
+          "updateAuthor": {
+            "self": "https://sunlife.atlassian.net/rest/api/3/user?accountId=6322a2dac7601c8e4abf6bf9",
+            "accountId": "6322a2dac7601c8e4abf6bf9",
+            "emailAddress": "andy.graverson@sunlife.com",
+            "avatarUrls": {
+              "48x48": "https://secure.gravatar.com/avatar/dfc13e87475e871f72597cae66e1291a?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FAG-0.png",
+              "24x24": "https://secure.gravatar.com/avatar/dfc13e87475e871f72597cae66e1291a?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FAG-0.png",
+              "16x16": "https://secure.gravatar.com/avatar/dfc13e87475e871f72597cae66e1291a?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FAG-0.png",
+              "32x32": "https://secure.gravatar.com/avatar/dfc13e87475e871f72597cae66e1291a?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FAG-0.png"
+            },
+            "displayName": "Andy Graverson",
+            "active": true,
+            "timeZone": "America/Toronto",
+            "accountType": "atlassian"
+          },
+          "created": "2024-11-22T15:05:06.560-0500",
+          "updated": "2024-11-22T15:05:06.560-0500",
+          "jsdPublic": true
+        }
+      ],
+      "self": "https://sunlife.atlassian.net/rest/api/3/issue/1963511/comment",
+      "maxResults": 9,
+      "total": 9,
+      "startAt": 0
+    },
+    "customfield_40783": null,
+    "customfield_42961": null,
+    "customfield_26499": null,
+    "customfield_40784": null,
+    "customfield_42968": null,
+    "customfield_37140": null,
+    "customfield_40789": null,
+    "customfield_42967": null,
+    "customfield_42966": null,
+    "customfield_43810": null,
+    "customfield_40787": null,
+    "customfield_42965": null,
+    "customfield_40788": null,
+    "customfield_43397": "None.None.None",
+    "customfield_43398": {
+      "self": "https://sunlife.atlassian.net/rest/api/3/customFieldOption/611451",
+      "value": "R3 Regression",
+      "id": "611451"
+    },
+    "customfield_44247": null,
+    "customfield_32259": null,
+    "customfield_34446": null,
+    "customfield_32260": null,
+    "customfield_44239": null,
+    "customfield_44251": null,
+    "customfield_44252": null,
+    "customfield_26828": null,
+    "customfield_44253": null,
+    "customfield_44250": null,
+    "versions": [],
+    "customfield_44267": null,
+    "customfield_44268": null,
+    "customfield_44264": null,
+    "customfield_44260": null,
+    "customfield_44261": null,
+    "customfield_32280": null,
+    "customfield_44259": null,
+    "customfield_25998": null,
+    "customfield_25997": null,
+    "customfield_44277": null,
+    "customfield_44278": null,
+    "customfield_44279": null,
+    "customfield_44273": null,
+    "customfield_44274": null,
+    "customfield_44275": null,
+    "customfield_44276": null,
+    "customfield_44270": null,
+    "customfield_44271": null,
+    "customfield_44272": null,
+    "customfield_27701": null,
+    "customfield_27703": null,
+    "customfield_27702": null,
+    "customfield_44288": null,
+    "customfield_27705": null,
+    "customfield_44289": null,
+    "customfield_27704": null,
+    "customfield_27707": null,
+    "customfield_27706": null,
+    "customfield_44284": null,
+    "customfield_27709": null,
+    "customfield_44285": null,
+    "customfield_27708": null,
+    "customfield_44286": null,
+    "customfield_44280": null,
+    "customfield_37992": null,
+    "customfield_44281": null,
+    "customfield_37993": null,
+    "customfield_44282": null,
+    "customfield_44283": null,
+    "customfield_33158": {
+      "self": "https://sunlife.atlassian.net/rest/api/3/customFieldOption/528511",
+      "value": "AEM",
+      "id": "528511"
+    },
+    "customfield_27710": null,
+    "customfield_24202": null,
+    "customfield_27712": null,
+    "customfield_27711": null,
+    "customfield_27713": null,
+    "customfield_44299": null,
+    "customfield_24206": null,
+    "customfield_24207": null,
+    "customfield_24208": null,
+    "customfield_25539": null,
+    "customfield_44295": null,
+    "customfield_44296": null,
+    "customfield_44297": null,
+    "customfield_44298": null,
+    "customfield_44291": null,
+    "customfield_44292": null,
+    "customfield_44293": null,
+    "customfield_44294": null,
+    "customfield_44290": null,
+    "customfield_33161": null,
+    "customfield_24210": null,
+    "customfield_24211": null,
+    "customfield_24212": null,
+    "customfield_24216": null,
+    "customfield_24218": null,
+    "customfield_24219": null,
+    "customfield_24222": null,
+    "customfield_24223": null,
+    "customfield_24224": null,
+    "customfield_24225": null,
+    "customfield_24226": null,
+    "customfield_24227": null,
+    "customfield_24228": {
+      "self": "https://sunlife.atlassian.net/rest/api/3/customFieldOption/299976",
+      "value": "ServiceNow",
+      "id": "299976"
+    },
+    "customfield_24229": null,
+    "customfield_26406": null,
+    "customfield_10082": null,
+    "customfield_24230": null,
+    "customfield_25564": null,
+    "customfield_26411": null,
+    "customfield_47339": null,
+    "customfield_27747": 0.0,
+    "customfield_27746": 0.0,
+    "customfield_43311": null,
+    "customfield_43790": null,
+    "customfield_54447": null,
+    "customfield_34838": null,
+    "customfield_54445": null,
+    "customfield_54446": null,
+    "resolution": null,
+    "customfield_54449": null,
+    "customfield_11720": null,
+    "customfield_54450": null,
+    "customfield_11711": null,
+    "customfield_54451": null,
+    "customfield_11712": null,
+    "customfield_54453": null,
+    "customfield_11718": null,
+    "customfield_43308": null,
+    "customfield_43302": null,
+    "customfield_43786": null,
+    "customfield_43303": null,
+    "customfield_43787": null,
+    "customfield_43304": null,
+    "customfield_43788": null,
+    "customfield_43789": null,
+    "customfield_54436": null,
+    "customfield_54437": null,
+    "customfield_54438": null,
+    "customfield_54439": null,
+    "customfield_54440": null,
+    "customfield_54443": null,
+    "customfield_54444": null,
+    "customfield_54441": null,
+    "customfield_54442": null,
+    "customfield_43317": null,
+    "customfield_11707": null,
+    "customfield_43799": null,
+    "customfield_43316": null,
+    "customfield_43332": null,
+    "customfield_44664": null,
+    "customfield_54469": null,
+    "customfield_54467": null,
+    "customfield_54468": null,
+    "customfield_32677": null,
+    "customfield_54472": null,
+    "customfield_54473": null,
+    "customfield_54470": null,
+    "customfield_54476": null,
+    "customfield_54477": null,
+    "customfield_54474": null,
+    "customfield_54475": null,
+    "customfield_43329": null,
+    "customfield_25911": null,
+    "customfield_43342": null,
+    "customfield_43343": null,
+    "customfield_43344": null,
+    "customfield_43340": null,
+    "customfield_43341": null,
+    "customfield_54456": null,
+    "customfield_54466": null,
+    "customfield_43335": null,
+    "customfield_43336": null,
+    "issuetype": {
+      "self": "https://sunlife.atlassian.net/rest/api/3/issuetype/11637",
+      "id": "11637",
+      "description": "",
+      "iconUrl": "https://sunlife.atlassian.net/rest/api/2/universal_avatar/view/type/issuetype/avatar/10300?size=medium",
+      "name": "Vulnerability",
+      "subtask": false,
+      "avatarId": 10300,
+      "hierarchyLevel": 0
+    },
+    "customfield_54494": null,
+    "customfield_54492": null,
+    "customfield_54493": null,
+    "customfield_43347": null,
+    "customfield_25933": null,
+    "customfield_43367": null,
+    "customfield_25938": null,
+    "customfield_54479": null,
+    "customfield_54483": null,
+    "customfield_54484": null,
+    "customfield_10810": null,
+    "customfield_54482": null,
+    "customfield_10813": null,
+    "customfield_25940": null,
+    "customfield_54480": null,
+    "customfield_44206": null,
+    "customfield_43375": null,
+    "customfield_43376": null,
+    "customfield_43373": null,
+    "customfield_43370": null,
+    "timetracking": {},
+    "customfield_10805": null,
+    "customfield_10809": null,
+    "customfield_43369": null,
+    "customfield_44236": null,
+    "customfield_37943": null,
+    "environment": {
+      "type": "doc",
+      "version": 1,
+      "content": [
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Recommendation",
+              "marks": [{ "type": "strong" }]
+            },
+            { "type": "hardBreak" },
+            {
+              "type": "text",
+              "text": "If possible, applications should avoid incorporating user-controllable data into redirection targets. In many cases, this behavior can be avoided in a number of ways:"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Remove the redirection function from the application, and replace links to it with direct links to the relevant target URLs."
+            },
+            { "type": "hardBreak" },
+            {
+              "type": "text",
+              "text": "Maintain a server-side list of all URLs that are permitted for redirection. Instead of passing the target URL as a parameter to the redirector, pass an index into this list."
+            },
+            { "type": "hardBreak" },
+            {
+              "type": "text",
+              "text": "If it is considered unavoidable for the redirection function to receive user-controllable input and incorporate this into the redirection target, one of the following measures should be used to minimize the risk of redirection attacks:"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "The application should use relative URLs in all of its redirects, and the redirection function should strictly validate that the URL received is a relative URL."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "The application should use URLs relative to the web root for all of its redirects, and the redirection function should validate that the URL received starts with a slash character. It should then prepend "
+            },
+            {
+              "type": "inlineCard",
+              "attrs": { "url": "http://yourdomainname.com" }
+            },
+            {
+              "type": "text",
+              "text": "  to the URL before issuing the redirect."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "The application should use absolute URLs for all of its redirects, and the redirection function should verify that the user-supplied URL begins with "
+            },
+            {
+              "type": "inlineCard",
+              "attrs": { "url": "http://yourdomainname.com/" }
+            },
+            { "type": "text", "text": "  before issuing the redirect." },
+            { "type": "hardBreak" }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            { "type": "text", "text": "AP", "marks": [{ "type": "strong" }] }
+          ]
+        },
+        {
+          "type": "bulletList",
+          "content": [
+            {
+              "type": "listItem",
+              "content": [
+                {
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "merge the two step signup into one step"
+                    }
+                  ]
+                },
+                {
+                  "type": "bulletList",
+                  "content": [
+                    {
+                      "type": "listItem",
+                      "content": [
+                        {
+                          "type": "paragraph",
+                          "content": [
+                            {
+                              "type": "text",
+                              "text": "add company code to personal info form"
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "type": "listItem",
+                      "content": [
+                        {
+                          "type": "paragraph",
+                          "content": [
+                            {
+                              "type": "text",
+                              "text": "handle company code validation in same endpoint"
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "type": "listItem",
+                      "content": [
+                        {
+                          "type": "paragraph",
+                          "content": [
+                            {
+                              "type": "text",
+                              "text": "return generic error regardless of what went wrong"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "customfield_24630": null,
+    "customfield_24633": null,
+    "customfield_24634": null,
+    "customfield_11322": null,
+    "customfield_10476": null,
+    "customfield_10477": null,
+    "customfield_11324": null,
+    "customfield_43707": null,
+    "customfield_43708": null,
+    "customfield_26389": null,
+    "customfield_49028": null,
+    "customfield_38379": null,
+    "customfield_10458": null,
+    "customfield_43717": null,
+    "customfield_26394": null,
+    "customfield_43718": null,
+    "customfield_25067": null,
+    "customfield_26399": null,
+    "customfield_25068": null,
+    "customfield_43715": null,
+    "customfield_43716": null,
+    "customfield_43710": null,
+    "customfield_43711": null,
+    "customfield_21104": null,
+    "customfield_38380": null,
+    "customfield_38381": null,
+    "customfield_38382": null,
+    "customfield_38383": null,
+    "customfield_43730": null,
+    "customfield_38385": null,
+    "customfield_38386": null,
+    "customfield_10449": null,
+    "customfield_43728": null,
+    "customfield_43729": null,
+    "customfield_43725": null,
+    "customfield_43726": null,
+    "customfield_43727": null,
+    "customfield_43723": null,
+    "customfield_43741": null,
+    "customfield_10434": null,
+    "customfield_10435": null,
+    "customfield_43739": null,
+    "customfield_37069": null,
+    "customfield_37068": null,
+    "customfield_43735": null,
+    "customfield_37067": null,
+    "customfield_43736": null,
+    "customfield_37066": null,
+    "customfield_43737": null,
+    "customfield_37064": null,
+    "customfield_43731": null,
+    "customfield_43732": null,
+    "customfield_37062": null,
+    "customfield_43734": null,
+    "customfield_37060": null,
+    "customfield_43752": null,
+    "customfield_10433": null,
+    "customfield_43746": null,
+    "customfield_43747": null,
+    "workratio": -1,
+    "customfield_37075": null,
+    "customfield_43742": null,
+    "customfield_37074": null,
+    "customfield_43743": null,
+    "customfield_37073": null,
+    "customfield_43744": null,
+    "customfield_37072": null,
+    "customfield_43745": null,
+    "customfield_37071": null,
+    "customfield_43760": null,
+    "customfield_43761": null,
+    "customfield_37080": null,
+    "customfield_43762": null,
+    "customfield_43763": null,
+    "customfield_10421": null,
+    "customfield_10414": null,
+    "customfield_10418": null,
+    "customfield_43757": null,
+    "customfield_43759": null,
+    "customfield_43753": null,
+    "customfield_43754": null,
+    "customfield_44602": null,
+    "customfield_43771": null,
+    "customfield_43772": null,
+    "customfield_43773": null,
+    "customfield_43774": null,
+    "customfield_43770": null,
+    "customfield_54426": null,
+    "customfield_54429": null,
+    "customfield_54427": null,
+    "customfield_27290": null,
+    "customfield_10411": null,
+    "customfield_54432": null,
+    "customfield_54431": null,
+    "customfield_43769": null,
+    "customfield_37099": null,
+    "customfield_37098": null,
+    "customfield_37097": null,
+    "customfield_37096": null,
+    "customfield_43764": null,
+    "customfield_44612": {
+      "self": "https://sunlife.atlassian.net/rest/api/3/customFieldOption/621378",
+      "value": "Within Product",
+      "id": "621378"
+    },
+    "customfield_37095": "@sunlife.com",
+    "customfield_43765": null,
+    "customfield_43766": null,
+    "customfield_37094": null,
+    "customfield_37093": null,
+    "customfield_43782": null,
+    "customfield_43783": null,
+    "customfield_43300": null,
+    "customfield_43784": null,
+    "customfield_43301": null,
+    "customfield_43785": null,
+    "customfield_43780": null,
+    "customfield_43781": null,
+    "customfield_11722": null,
+    "customfield_11721": null,
+    "customfield_43779": null,
+    "customfield_43775": null,
+    "customfield_43776": null,
+    "customfield_43777": null,
+    "customfield_43778": null,
+    "customfield_49416": null,
+    "customfield_24119": null,
+    "customfield_49417": null,
+    "customfield_49414": null,
+    "customfield_49415": null,
+    "customfield_49412": null,
+    "customfield_49413": null,
+    "customfield_49410": null,
+    "customfield_49411": null,
+    "customfield_24120": null,
+    "customfield_25451": null,
+    "customfield_27631": null,
+    "customfield_24121": null,
+    "customfield_24122": null,
+    "customfield_27633": null,
+    "customfield_24123": null,
+    "customfield_27632": null,
+    "customfield_24124": null,
+    "customfield_27635": null,
+    "customfield_24126": null,
+    "customfield_27637": null,
+    "customfield_27636": null,
+    "customfield_24128": null,
+    "customfield_27639": null,
+    "customfield_24129": null,
+    "customfield_27638": null,
+    "customfield_13450": null,
+    "customfield_49421": [],
+    "customfield_49422": null,
+    "customfield_49420": null,
+    "customfield_13454": null,
+    "customfield_13456": null,
+    "customfield_39624": null,
+    "customfield_13455": null,
+    "customfield_13458": null,
+    "customfield_13449": null,
+    "customfield_13448": {
+      "self": "https://sunlife.atlassian.net/rest/api/3/customFieldOption/79554",
+      "value": "No",
+      "id": "79554"
+    },
+    "customfield_27640": null,
+    "customfield_24130": null,
+    "customfield_24131": null,
+    "customfield_27642": null,
+    "customfield_24132": null,
+    "customfield_27641": null,
+    "customfield_27644": null,
+    "customfield_27643": null,
+    "customfield_27646": null,
+    "customfield_24136": null,
+    "customfield_24137": {
+      "self": "https://sunlife.atlassian.net/rest/api/3/customFieldOption/714602",
+      "value": "Milksteak",
+      "id": "714602"
+    },
+    "customfield_27648": null,
+    "customfield_24138": {
+      "self": "https://sunlife.atlassian.net/rest/api/3/customFieldOption/299694",
+      "value": "No",
+      "id": "299694"
+    },
+    "customfield_49418": null,
+    "customfield_27647": null,
+    "customfield_49419": null,
+    "customfield_27649": null,
+    "customfield_13441": null,
+    "customfield_13440": null,
+    "customfield_13445": null,
+    "customfield_39637": null,
+    "customfield_13438": null,
+    "customfield_37457": null,
+    "customfield_13439": null,
+    "customfield_24140": "2025-02-07",
+    "customfield_27651": null,
+    "customfield_24141": "AVIT0010980",
+    "customfield_27650": null,
+    "customfield_24142": {
+      "self": "https://sunlife.atlassian.net/rest/api/3/customFieldOption/299668",
+      "value": "No",
+      "id": "299668"
+    },
+    "customfield_24143": null,
+    "customfield_27652": null,
+    "customfield_27657": null,
+    "customfield_27656": null,
+    "customfield_27659": null,
+    "customfield_27658": null,
+    "customfield_13427": null,
+    "customfield_13426": {
+      "self": "https://sunlife.atlassian.net/rest/api/3/customFieldOption/79511",
+      "value": "Multi AZ",
+      "id": "79511"
+    },
+    "customfield_13428": null,
+    "customfield_27660": null,
+    "customfield_24151": null,
+    "customfield_27662": null,
+    "customfield_27661": null,
+    "customfield_27664": null,
+    "customfield_24154": null,
+    "customfield_27663": null,
+    "customfield_27666": null,
+    "customfield_27665": null,
+    "customfield_27668": null,
+    "customfield_27667": null,
+    "customfield_13423": null,
+    "customfield_13422": null,
+    "customfield_13425": null,
+    "customfield_13424": null,
+    "customfield_24162": null,
+    "customfield_24164": null,
+    "watches": {
+      "self": "https://sunlife.atlassian.net/rest/api/3/issue/SGR-1143/watchers",
+      "watchCount": 0,
+      "isWatching": false
+    },
+    "customfield_39662": null,
+    "customfield_39663": null,
+    "customfield_39664": null,
+    "customfield_39665": null,
+    "customfield_13410": null,
+    "customfield_39666": null,
+    "customfield_39667": null,
+    "customfield_13412": null,
+    "customfield_39668": null,
+    "customfield_13411": null,
+    "customfield_39669": null,
+    "customfield_13414": null,
+    "customfield_13413": null,
+    "customfield_37009": null,
+    "customfield_13405": null,
+    "customfield_37008": null,
+    "customfield_13404": null,
+    "customfield_37007": null,
+    "customfield_13407": null,
+    "customfield_13409": null,
+    "customfield_26351": null,
+    "customfield_13408": null,
+    "customfield_37003": null,
+    "customfield_37002": null,
+    "customfield_37001": null,
+    "customfield_27205": null,
+    "customfield_39670": null,
+    "customfield_39671": null,
+    "customfield_39672": null,
+    "customfield_39673": null,
+    "timeoriginalestimate": null,
+    "customfield_39674": null,
+    "customfield_39675": null,
+    "description": {
+      "type": "doc",
+      "version": 1,
+      "content": [
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Vulnerability Summary",
+              "marks": [{ "type": "strong" }]
+            },
+            { "type": "hardBreak" },
+            { "type": "text", "text": "Enumeration (79456180)" },
+            { "type": "hardBreak" },
+            { "type": "text", "text": "Description:" },
+            { "type": "hardBreak" },
+            {
+              "type": "text",
+              "text": "Enumeration vulnerabilities occur when a web application reveals whether or not a particular username, userID or file ID exists on a system."
+            },
+            { "type": "hardBreak" },
+            {
+              "type": "text",
+              "text": "This may be by design, or as a consequence of misconfiguration. This information can be used to either glean information directly, or to launch further attacks."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            { "type": "hardBreak" },
+            {
+              "type": "text",
+              "text": "Attack",
+              "marks": [{ "type": "strong" }]
+            },
+            { "type": "hardBreak" },
+            { "type": "text", "text": "Impact" },
+            { "type": "hardBreak" },
+            {
+              "type": "text",
+              "text": "During testing it was noted that the company code on the signup page can be brute forced in an attempt to enumerate other valid company codes. It was possible to automate the submission of thousands of codes without facing any mechanism to prevent or slow down the attack."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "In addition to the company code provided to us for testing, we were also able to identify an additional legitimate value, ‘test’, which is tied to the company Hennessey Engineers Inc."
+            }
+          ]
+        },
+        {
+          "type": "heading",
+          "attrs": { "level": 2 },
+          "content": [{ "type": "text", "text": "Screenshots/Images" }]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Error message enabling easy differentiation between registered and non-registered company codes:"
+            }
+          ]
+        },
+        {
+          "type": "mediaSingle",
+          "attrs": { "layout": "center" },
+          "content": [
+            {
+              "type": "media",
+              "attrs": {
+                "type": "external",
+                "url": "https://sunlife.service-now.com/sys_attachment.do?sys_id=7f851c2c47805a1002a2d24c416d4361",
+                "height": 1722,
+                "width": 2756
+              },
+              "marks": [
+                {
+                  "type": "border",
+                  "attrs": { "size": 2, "color": "#091e4224" }
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Automated brute forcing of thousands of company codes:"
+            }
+          ]
+        },
+        {
+          "type": "mediaSingle",
+          "attrs": { "layout": "center" },
+          "content": [
+            {
+              "type": "media",
+              "attrs": {
+                "type": "external",
+                "url": "https://sunlife.service-now.com/sys_attachment.do?sys_id=69b590ac47805a1002a2d24c416d436b",
+                "height": 1154,
+                "width": 2830
+              },
+              "marks": [
+                {
+                  "type": "border",
+                  "attrs": { "size": 2, "color": "#091e4224" }
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "HTTP Request/Response",
+              "marks": [{ "type": "strong" }]
+            },
+            { "type": "hardBreak" },
+            {
+              "type": "text",
+              "text": "POST /api/validate-employer-identifier HTTP/2"
+            },
+            { "type": "hardBreak" },
+            { "type": "text", "text": "Host: " },
+            {
+              "type": "inlineCard",
+              "attrs": { "url": "http://qa-app-dcp.hellostitch.com" }
+            },
+            { "type": "text", "text": " " },
+            { "type": "hardBreak" },
+            {
+              "type": "text",
+              "text": "Cookie: landingExperience=version-a; maxwelltitanqa=2b5269d29ef8eeb0079a0c439b5831b6; ajs_user_id=66a8bd059d30773174d8aa50; __zlcmid=1N0muFRKAZgbkvJ; ajs_anonymous_id=2648d65d-d933-4d76-9491-441fe7a7dec0"
+            },
+            { "type": "hardBreak" },
+            {
+              "type": "text",
+              "text": "User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:128.0) Gecko/20100101 Firefox/128.0"
+            },
+            { "type": "hardBreak" },
+            { "type": "text", "text": "Accept: application/json" },
+            { "type": "hardBreak" },
+            { "type": "text", "text": "Accept-Language: en" },
+            { "type": "hardBreak" },
+            { "type": "text", "text": "Accept-Encoding: gzip, deflate, br" },
+            { "type": "hardBreak" },
+            { "type": "text", "text": "Referer: " },
+            {
+              "type": "inlineCard",
+              "attrs": { "url": "https://qa-app-dcp.hellostitch.com/signup" }
+            },
+            { "type": "text", "text": " " },
+            { "type": "hardBreak" },
+            {
+              "type": "text",
+              "text": "Content-Type: application/json; charset=utf-8"
+            },
+            { "type": "hardBreak" },
+            { "type": "text", "text": "Content-Length: 36" },
+            { "type": "hardBreak" },
+            { "type": "text", "text": "Origin: " },
+            {
+              "type": "inlineCard",
+              "attrs": { "url": "https://qa-app-dcp.hellostitch.com" }
+            },
+            { "type": "text", "text": " " },
+            { "type": "hardBreak" },
+            { "type": "text", "text": "Sec-Fetch-Dest: empty" },
+            { "type": "hardBreak" },
+            { "type": "text", "text": "Sec-Fetch-Mode: cors" },
+            { "type": "hardBreak" },
+            { "type": "text", "text": "Sec-Fetch-Site: same-origin" },
+            { "type": "hardBreak" },
+            { "type": "text", "text": "Priority: u=0" },
+            { "type": "hardBreak" },
+            { "type": "text", "text": "Te: trailers" }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "{\"employerIdentifier\":\"nonexistant\"}"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            { "type": "text", "text": "404" },
+            { "type": "hardBreak" },
+            { "type": "text", "text": "Date: Wed, 31 Jul 2024 08:53:04 GMT" },
+            { "type": "hardBreak" },
+            {
+              "type": "text",
+              "text": "Content-Type: application/json; charset=utf-8"
+            },
+            { "type": "hardBreak" },
+            { "type": "text", "text": "Content-Length: 46" },
+            { "type": "hardBreak" },
+            {
+              "type": "text",
+              "text": "Cache-Control: no-store, no-cache, must-revalidate, proxy-revalidate"
+            },
+            { "type": "hardBreak" },
+            {
+              "type": "text",
+              "text": "Etag: W/\"2e-307n+JJYJGl1Cj0Z2Sz4HEdRHdA\""
+            },
+            { "type": "hardBreak" },
+            { "type": "text", "text": "Expires: 0" },
+            { "type": "hardBreak" },
+            { "type": "text", "text": "Pragma: no-cache" },
+            { "type": "hardBreak" },
+            {
+              "type": "text",
+              "text": "Strict-Transport-Security: max-age=15552000; includeSubDomains"
+            },
+            { "type": "hardBreak" },
+            { "type": "text", "text": "Surrogate-Control: no-store" },
+            { "type": "hardBreak" },
+            { "type": "text", "text": "X-Content-Type-Options: nosniff" },
+            { "type": "hardBreak" },
+            {
+              "type": "text",
+              "text": "X-Correlation-Id: c8f6414c-7e4f-4af0-a6fa-ea9c126ab3f5"
+            },
+            { "type": "hardBreak" },
+            { "type": "text", "text": "X-Dns-Prefetch-Control: off" },
+            { "type": "hardBreak" },
+            { "type": "text", "text": "X-Download-Options: noopen" },
+            { "type": "hardBreak" },
+            { "type": "text", "text": "X-Frame-Options: SAMEORIGIN" },
+            { "type": "hardBreak" },
+            { "type": "text", "text": "X-Powered-By: Express" },
+            { "type": "hardBreak" },
+            { "type": "text", "text": "X-Robots-Tag: noindex" },
+            { "type": "hardBreak" },
+            { "type": "text", "text": "X-Xss-Protection: 1; mode=block" },
+            { "type": "hardBreak" },
+            { "type": "text", "text": "Cf-Cache-Status: DYNAMIC" },
+            { "type": "hardBreak" },
+            { "type": "text", "text": "Server: cloudflare" },
+            { "type": "hardBreak" },
+            { "type": "text", "text": "Cf-Ray: 8abc5b1c4e4ebdc5-DUB" }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "{\"message\":\"ER_IDENTIFIER__NO_EMPLOYER_FOUND\"}"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "POST /api/validate-employer-identifier HTTP/2"
+            },
+            { "type": "hardBreak" },
+            { "type": "text", "text": "Host: " },
+            {
+              "type": "inlineCard",
+              "attrs": { "url": "http://qa-app-dcp.hellostitch.com" }
+            },
+            { "type": "text", "text": " " },
+            { "type": "hardBreak" },
+            {
+              "type": "text",
+              "text": "Cookie: landingExperience=version-a; maxwelltitanqa=2b5269d29ef8eeb0079a0c439b5831b6; ajs_user_id=66a8bd059d30773174d8aa50; __zlcmid=1N0muFRKAZgbkvJ; ajs_anonymous_id=2648d65d-d933-4d76-9491-441fe7a7dec0"
+            },
+            { "type": "hardBreak" },
+            {
+              "type": "text",
+              "text": "User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:128.0) Gecko/20100101 Firefox/128.0"
+            },
+            { "type": "hardBreak" },
+            { "type": "text", "text": "Accept: application/json" },
+            { "type": "hardBreak" },
+            { "type": "text", "text": "Accept-Language: en" },
+            { "type": "hardBreak" },
+            { "type": "text", "text": "Accept-Encoding: gzip, deflate, br" },
+            { "type": "hardBreak" },
+            { "type": "text", "text": "Referer: " },
+            {
+              "type": "inlineCard",
+              "attrs": { "url": "https://qa-app-dcp.hellostitch.com/signup" }
+            },
+            { "type": "text", "text": " " },
+            { "type": "hardBreak" },
+            {
+              "type": "text",
+              "text": "Content-Type: application/json; charset=utf-8"
+            },
+            { "type": "hardBreak" },
+            { "type": "text", "text": "Content-Length: 29" },
+            { "type": "hardBreak" },
+            { "type": "text", "text": "Origin: " },
+            {
+              "type": "inlineCard",
+              "attrs": { "url": "https://qa-app-dcp.hellostitch.com" }
+            },
+            { "type": "text", "text": " " },
+            { "type": "hardBreak" },
+            { "type": "text", "text": "Sec-Fetch-Dest: empty" },
+            { "type": "hardBreak" },
+            { "type": "text", "text": "Sec-Fetch-Mode: cors" },
+            { "type": "hardBreak" },
+            { "type": "text", "text": "Sec-Fetch-Site: same-origin" },
+            { "type": "hardBreak" },
+            { "type": "text", "text": "Priority: u=0" },
+            { "type": "hardBreak" },
+            { "type": "text", "text": "Te: trailers" }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            { "type": "text", "text": "{\"employerIdentifier\":\"test\"}" }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            { "type": "text", "text": "200 OK" },
+            { "type": "hardBreak" },
+            { "type": "text", "text": "Date: Wed, 31 Jul 2024 08:55:27 GMT" },
+            { "type": "hardBreak" },
+            {
+              "type": "text",
+              "text": "Content-Type: application/json; charset=utf-8"
+            },
+            { "type": "hardBreak" },
+            {
+              "type": "text",
+              "text": "Cache-Control: no-store, no-cache, must-revalidate, proxy-revalidate"
+            },
+            { "type": "hardBreak" },
+            {
+              "type": "text",
+              "text": "Etag: W/\"fe-pCbPWO9RzoZh9r9Spi12UBjKbt4\""
+            },
+            { "type": "hardBreak" },
+            { "type": "text", "text": "Expires: 0" },
+            { "type": "hardBreak" },
+            { "type": "text", "text": "Pragma: no-cache" },
+            { "type": "hardBreak" },
+            {
+              "type": "text",
+              "text": "Strict-Transport-Security: max-age=15552000; includeSubDomains"
+            },
+            { "type": "hardBreak" },
+            { "type": "text", "text": "Surrogate-Control: no-store" },
+            { "type": "hardBreak" },
+            { "type": "text", "text": "X-Content-Type-Options: nosniff" },
+            { "type": "hardBreak" },
+            {
+              "type": "text",
+              "text": "X-Correlation-Id: cd205ed7-6438-435d-ba3c-9e0110615625"
+            },
+            { "type": "hardBreak" },
+            { "type": "text", "text": "X-Dns-Prefetch-Control: off" },
+            { "type": "hardBreak" },
+            { "type": "text", "text": "X-Download-Options: noopen" },
+            { "type": "hardBreak" },
+            { "type": "text", "text": "X-Frame-Options: SAMEORIGIN" },
+            { "type": "hardBreak" },
+            { "type": "text", "text": "X-Powered-By: Express" },
+            { "type": "hardBreak" },
+            { "type": "text", "text": "X-Robots-Tag: noindex" },
+            { "type": "hardBreak" },
+            { "type": "text", "text": "X-Xss-Protection: 1; mode=block" },
+            { "type": "hardBreak" },
+            { "type": "text", "text": "Cf-Cache-Status: DYNAMIC" },
+            { "type": "hardBreak" },
+            { "type": "text", "text": "Server: cloudflare" },
+            { "type": "hardBreak" },
+            { "type": "text", "text": "Cf-Ray: 8abc5e983a21be57-DUB" }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "{\"data\":{\"employer\":{\"id\":\"5908e6e9390e0287448b4569\",\"stitch\":true,\"employerCode\":\"test\",\"emailDomain\":\"\",\"businessName\":\"Hennessey Engineers Inc\",\"logoUrl\":\""
+            },
+            {
+              "type": "text",
+              "text": "https://s3.amazonaws.com/maxwellv5-employers%2F/59303a0171235hennessey blue logo-600.jpg",
+              "marks": [
+                {
+                  "type": "link",
+                  "attrs": {
+                    "href": "https://s3.amazonaws.com/maxwellv5-employers%2F/59303a0171235hennessey%20blue%20logo-600.jpg"
+                  }
+                }
+              ]
+            },
+            { "type": "text", "text": "\"}}}" }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            { "type": "hardBreak" },
+            { "type": "text", "text": "Affected URLs" },
+            { "type": "hardBreak" },
+            {
+              "type": "inlineCard",
+              "attrs": { "url": "https://qa-app-dcp.hellostitch.com/signup" }
+            },
+            { "type": "text", "text": " " },
+            { "type": "hardBreak" },
+            { "type": "hardBreak" },
+            {
+              "type": "text",
+              "text": "Affected functionalities",
+              "marks": [{ "type": "strong" }]
+            },
+            { "type": "hardBreak" },
+            { "type": "text", "text": "79456180" }
+          ]
+        }
+      ]
+    },
+    "customfield_39676": null,
+    "customfield_39677": null,
+    "customfield_39678": null,
+    "customfield_13401": null,
+    "customfield_39679": null,
+    "customfield_13400": null,
+    "customfield_37018": null,
+    "customfield_24181": null,
+    "customfield_37017": null,
+    "customfield_37016": null,
+    "customfield_26361": null,
+    "customfield_37013": null,
+    "customfield_37012": null,
+    "customfield_37011": null,
+    "customfield_37010": null,
+    "customfield_39680": null,
+    "customfield_39681": null,
+    "customfield_10364": null,
+    "customfield_11204": {
+      "self": "https://sunlife.atlassian.net/rest/api/3/customFieldOption/51636",
+      "value": "Single User",
+      "id": "51636"
+    },
+    "customfield_24191": null,
+    "customfield_10359": null,
+    "customfield_24192": "2024-09-05T11:08:23.620-0400",
+    "customfield_24194": null,
+    "customfield_24195": null,
+    "customfield_24196": null,
+    "customfield_26379": null,
+    "customfield_43276": null,
+    "customfield_44123": null,
+    "customfield_44124": null,
+    "customfield_44125": null,
+    "customfield_25847": null,
+    "customfield_44126": null,
+    "customfield_44120": null,
+    "customfield_44121": null,
+    "customfield_43275": null,
+    "customfield_44122": null,
+    "fixVersions": [],
+    "customfield_43271": null,
+    "customfield_36979": null,
+    "customfield_36978": null,
+    "customfield_36977": null,
+    "customfield_36986": null,
+    "customfield_36982": null,
+    "customfield_36980": null,
+    "customfield_44116": null,
+    "customfield_44117": null,
+    "customfield_44118": null,
+    "customfield_44119": null,
+    "customfield_44134": null,
+    "customfield_44135": null,
+    "customfield_44136": null,
+    "customfield_44137": null,
+    "customfield_44130": null,
+    "customfield_44131": null,
+    "customfield_44132": null,
+    "customfield_44133": null,
+    "customfield_18746": null,
+    "customfield_36989": null,
+    "customfield_36988": null,
+    "customfield_36997": null,
+    "customfield_36995": null,
+    "customfield_36994": null,
+    "customfield_36993": null,
+    "customfield_36992": null,
+    "customfield_36991": null,
+    "customfield_36990": null,
+    "customfield_24531": null,
+    "customfield_44127": null,
+    "customfield_44128": null,
+    "customfield_44129": null,
+    "customfield_43298": null,
+    "customfield_44145": null,
+    "customfield_43299": null,
+    "customfield_44146": null,
+    "customfield_44147": null,
+    "customfield_44148": null,
+    "customfield_44141": null,
+    "customfield_44142": null,
+    "customfield_44143": null,
+    "customfield_44144": null,
+    "customfield_44140": null,
+    "customfield_36999": null,
+    "customfield_25872": null,
+    "customfield_44138": null,
+    "customfield_25874": null,
+    "customfield_44139": null,
+    "customfield_24544": null,
+    "customfield_44156": null,
+    "customfield_25878": null,
+    "customfield_44157": null,
+    "customfield_25879": null,
+    "customfield_44158": null,
+    "customfield_44159": null,
+    "customfield_44152": null,
+    "customfield_44153": null,
+    "customfield_44154": null,
+    "customfield_44155": null,
+    "customfield_44150": null,
+    "customfield_44151": null,
+    "customfield_32175": null,
+    "customfield_26731": null,
+    "customfield_44149": null,
+    "customfield_44167": null,
+    "customfield_44168": null,
+    "customfield_44169": null,
+    "customfield_44163": null,
+    "customfield_44164": null,
+    "customfield_44165": null,
+    "customfield_44166": null,
+    "customfield_44160": null,
+    "customfield_44161": null,
+    "customfield_44162": null,
+    "customfield_44178": null,
+    "customfield_44179": null,
+    "customfield_47687": null,
+    "customfield_44174": null,
+    "customfield_44176": null,
+    "customfield_44177": null,
+    "customfield_44170": null,
+    "customfield_44171": null,
+    "customfield_44172": null,
+    "customfield_44173": null,
+    "customfield_44189": null,
+    "customfield_44186": null,
+    "customfield_44187": null,
+    "customfield_44188": null,
+    "customfield_44181": null,
+    "customfield_44182": null,
+    "customfield_44183": null,
+    "customfield_44184": null,
+    "customfield_44180": null,
+    "customfield_24100": null,
+    "customfield_24101": null,
+    "customfield_24102": null,
+    "customfield_24103": null,
+    "customfield_24104": null,
+    "customfield_24105": null,
+    "customfield_24589": null,
+    "customfield_24106": null,
+    "customfield_49405": null,
+    "customfield_24108": null,
+    "customfield_49403": null,
+    "customfield_49404": null,
+    "customfield_49401": null,
+    "customfield_49402": null,
+    "customfield_49400": null,
+    "customfield_24115": null,
+    "customfield_25446": null,
+    "customfield_24117": {
+      "self": "https://sunlife.atlassian.net/rest/api/3/customFieldOption/299628",
+      "value": "Process/Tool Support",
+      "id": "299628"
+    },
+    "parent": {
+      "id": "2028789",
+      "key": "MSK-4689",
+      "self": "https://sunlife.atlassian.net/rest/api/3/issue/2028789",
+      "fields": {
+        "summary": "2024 Maxwell Pen Test",
+        "status": {
+          "self": "https://sunlife.atlassian.net/rest/api/3/status/12814",
+          "description": "(Migrated on 9 Aug 2024 20:10 UTC)",
+          "iconUrl": "https://sunlife.atlassian.net/images/icons/statuses/generic.png",
+          "name": "In Engineering",
+          "id": "12814",
+          "statusCategory": {
+            "self": "https://sunlife.atlassian.net/rest/api/3/statuscategory/4",
+            "id": 4,
+            "key": "indeterminate",
+            "colorName": "yellow",
+            "name": "In Progress"
+          }
+        },
+        "priority": {
+          "self": "https://sunlife.atlassian.net/rest/api/3/priority/2",
+          "iconUrl": "https://sunlife.atlassian.net/images/icons/priorities/high.svg",
+          "name": "High",
+          "id": "2"
+        },
+        "issuetype": {
+          "self": "https://sunlife.atlassian.net/rest/api/3/issuetype/10000",
+          "id": "10000",
+          "description": "",
+          "iconUrl": "https://sunlife.atlassian.net/rest/api/2/universal_avatar/view/type/issuetype/avatar/10307?size=medium",
+          "name": "Epic",
+          "subtask": false,
+          "avatarId": 10307,
+          "hierarchyLevel": 1
+        }
+      }
+    },
+    "customfield_54327": null,
+    "customfield_54324": null,
+    "customfield_54328": null,
+    "customfield_54329": null,
+    "customfield_54330": null,
+    "customfield_54333": null,
+    "customfield_54334": [],
+    "customfield_54332": null,
+    "customfield_44513": null,
+    "customfield_43683": null,
+    "customfield_43684": null,
+    "customfield_43685": null,
+    "customfield_43686": null,
+    "customfield_24929": null,
+    "customfield_54322": null,
+    "customfield_54323": null,
+    "customfield_54321": null,
+    "customfield_43211": null,
+    "customfield_43691": null,
+    "customfield_54348": null,
+    "customfield_54346": null,
+    "customfield_54351": null,
+    "customfield_54352": null,
+    "customfield_54350": null,
+    "customfield_54356": null,
+    "customfield_54353": null,
+    "customfield_54354": null,
+    "customfield_43207": null,
+    "customfield_43208": null,
+    "customfield_43209": null,
+    "customfield_43687": null,
+    "customfield_43688": null,
+    "customfield_43223": null,
+    "customfield_43224": null,
+    "customfield_54338": null,
+    "customfield_54335": null,
+    "customfield_54339": null,
+    "customfield_54340": null,
+    "customfield_54341": null,
+    "customfield_54344": null,
+    "customfield_54345": null,
+    "customfield_54342": null,
+    "customfield_54343": null,
+    "votes": {
+      "self": "https://sunlife.atlassian.net/rest/api/3/issue/SGR-1143/votes",
+      "votes": 0,
+      "hasVoted": false
+    },
+    "worklog": { "startAt": 0, "maxResults": 20, "total": 0, "worklogs": [] },
+    "customfield_43214": null,
+    "customfield_43215": null,
+    "customfield_43232": null,
+    "customfield_25801": null,
+    "customfield_43233": null,
+    "customfield_43234": null,
+    "customfield_43235": null,
+    "customfield_44566": null,
+    "customfield_24959": null,
+    "customfield_43230": null,
+    "customfield_43231": null,
+    "customfield_54368": null,
+    "customfield_54369": null,
+    "customfield_54373": null,
+    "customfield_54374": null,
+    "customfield_54372": null,
+    "customfield_54377": null,
+    "customfield_54378": null,
+    "customfield_54375": null,
+    "customfield_54376": null,
+    "customfield_43229": null,
+    "customfield_24960": null,
+    "customfield_43225": null,
+    "customfield_43226": null,
+    "customfield_54370": null,
+    "customfield_43227": null,
+    "customfield_43228": null,
+    "customfield_25816": null,
+    "customfield_43240": null,
+    "customfield_43241": null,
+    "customfield_54359": null,
+    "customfield_54357": null,
+    "customfield_54358": null,
+    "customfield_54362": null,
+    "customfield_54363": null,
+    "customfield_32595": null,
+    "customfield_54360": null,
+    "customfield_54361": null,
+    "customfield_54366": null,
+    "customfield_54364": null,
+    "customfield_54365": null,
+    "customfield_43236": null,
+    "customfield_45415": null,
+    "customfield_43237": null,
+    "customfield_43238": null,
+    "customfield_43239": null,
+    "customfield_43254": null,
+    "customfield_44101": null,
+    "customfield_43255": null,
+    "customfield_44102": null,
+    "customfield_43256": null,
+    "customfield_44103": null,
+    "customfield_44104": null,
+    "customfield_25826": null,
+    "customfield_43253": null,
+    "customfield_44100": null,
+    "customfield_43249": null,
+    "customfield_54390": null,
+    "customfield_43265": null,
+    "customfield_44112": null,
+    "customfield_44113": null,
+    "customfield_44114": null,
+    "customfield_25836": null,
+    "customfield_44115": null,
+    "customfield_44593": null,
+    "customfield_44110": null,
+    "customfield_44111": null,
+    "customfield_54379": null,
+    "customfield_36969": null,
+    "customfield_54384": null,
+    "customfield_36976": null,
+    "customfield_54382": null,
+    "customfield_36974": null,
+    "customfield_54383": null,
+    "customfield_36973": null,
+    "customfield_54388": null,
+    "customfield_36972": null,
+    "customfield_36971": null,
+    "duedate": null,
+    "customfield_36970": null,
+    "customfield_54387": null,
+    "customfield_44109": null,
+    "customfield_44105": null,
+    "customfield_54381": null,
+    "customfield_44106": null,
+    "customfield_44107": null,
+    "customfield_44108": null,
+    "customfield_49379": null,
+    "customfield_49377": null,
+    "customfield_49375": null,
+    "customfield_10351": null,
+    "customfield_39578": null,
+    "customfield_49374": null,
+    "customfield_39579": null,
+    "customfield_11200": null,
+    "customfield_49371": null,
+    "customfield_24080": null,
+    "customfield_24081": null,
+    "customfield_24082": null,
+    "customfield_24083": null,
+    "customfield_24084": null,
+    "customfield_24085": null,
+    "customfield_27596": null,
+    "customfield_24086": null,
+    "customfield_24087": null,
+    "customfield_27114": null,
+    "customfield_24088": null,
+    "customfield_24089": null,
+    "customfield_39580": null,
+    "customfield_39581": null,
+    "customfield_39582": null,
+    "customfield_39583": null,
+    "customfield_49389": null,
+    "customfield_49386": null,
+    "customfield_39587": null,
+    "customfield_49387": null,
+    "customfield_39588": null,
+    "customfield_49384": null,
+    "customfield_49385": null,
+    "customfield_49382": null,
+    "customfield_49383": null,
+    "customfield_49380": null,
+    "customfield_24090": null,
+    "customfield_49381": null,
+    "customfield_24091": null,
+    "customfield_24092": null,
+    "customfield_24093": null,
+    "customfield_24094": 0.0,
+    "customfield_24096": null,
+    "customfield_24097": null,
+    "customfield_24098": null,
+    "customfield_24099": null,
+    "customfield_39590": [
+      {
+        "self": "https://sunlife.atlassian.net/rest/api/3/customFieldOption/574770",
+        "value": "None",
+        "id": "574770"
+      }
+    ],
+    "customfield_39591": [
+      {
+        "self": "https://sunlife.atlassian.net/rest/api/3/customFieldOption/574778",
+        "value": "None",
+        "id": "574778"
+      }
+    ],
+    "customfield_39592": [
+      {
+        "self": "https://sunlife.atlassian.net/rest/api/3/customFieldOption/574786",
+        "value": "None",
+        "id": "574786"
+      }
+    ],
+    "customfield_49397": null,
+    "customfield_49398": null,
+    "customfield_49395": null,
+    "customfield_49396": null,
+    "customfield_49393": null,
+    "customfield_49394": null,
+    "customfield_49391": null,
+    "customfield_49392": null,
+    "customfield_49390": null,
+    "aggregatetimeestimate": null,
+    "customfield_43608": null,
+    "customfield_43609": null,
+    "customfield_43603": null,
+    "customfield_26288": null,
+    "customfield_43604": null,
+    "customfield_43606": null,
+    "customfield_43600": null,
+    "creator": {
+      "self": "https://sunlife.atlassian.net/rest/api/3/user?accountId=6322a375cf721d09b016aa42",
+      "accountId": "6322a375cf721d09b016aa42",
+      "emailAddress": "shivam.khatri@sunlife.com",
+      "avatarUrls": {
+        "48x48": "https://secure.gravatar.com/avatar/19c4a87708e30a8f39708a981a77d58d?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FSK-0.png",
+        "24x24": "https://secure.gravatar.com/avatar/19c4a87708e30a8f39708a981a77d58d?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FSK-0.png",
+        "16x16": "https://secure.gravatar.com/avatar/19c4a87708e30a8f39708a981a77d58d?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FSK-0.png",
+        "32x32": "https://secure.gravatar.com/avatar/19c4a87708e30a8f39708a981a77d58d?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FSK-0.png"
+      },
+      "displayName": "Shivam Khatri",
+      "active": true,
+      "timeZone": "Europe/Dublin",
+      "accountType": "atlassian"
+    },
+    "customfield_43618": null,
+    "customfield_43619": null,
+    "customfield_26297": null,
+    "customfield_38285": {
+      "type": "doc",
+      "version": 1,
+      "content": [
+        {
+          "type": "paragraph",
+          "content": [
+            { "type": "text", "text": "Schedule Impact Explanation" },
+            { "type": "hardBreak" },
+            { "type": "text", "text": "Planned End Date" },
+            { "type": "hardBreak" },
+            { "type": "text", "text": "Revised End Date" },
+            { "type": "hardBreak" },
+            { "type": "text", "text": "Variance (+/- days)" }
+          ]
+        }
+      ]
+    },
+    "customfield_38286": {
+      "type": "doc",
+      "version": 1,
+      "content": [
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Cost (or Savings) Impact Explanation ______________________________"
+            },
+            { "type": "hardBreak" },
+            {
+              "type": "text",
+              "text": "Planned Cost ($$$) _______________  Revised Cost ($$$) _______________  Variance ($$$) _______________"
+            },
+            { "type": "hardBreak" },
+            {
+              "type": "text",
+              "text": "IT FTE _______________  Business FTE _______________  Non-FTE Costs _______________"
+            }
+          ]
+        }
+      ]
+    },
+    "customfield_38287": null,
+    "customfield_38288": null,
+    "customfield_38289": null,
+    "customfield_10303": null,
+    "customfield_43627": null,
+    "customfield_43621": null,
+    "customfield_43622": null,
+    "customfield_43640": null,
+    "customfield_43641": null,
+    "customfield_43642": null,
+    "customfield_43636": null,
+    "customfield_43637": null,
+    "customfield_43639": null,
+    "customfield_43633": null,
+    "customfield_43634": null,
+    "customfield_38290": null,
+    "customfield_43635": null,
+    "customfield_38291": {
+      "type": "doc",
+      "version": 1,
+      "content": [
+        {
+          "type": "paragraph",
+          "content": [
+            { "type": "text", "text": "Possible options, potential cost" }
+          ]
+        }
+      ]
+    },
+    "customfield_43647": null,
+    "customfield_43648": null,
+    "customfield_43644": null,
+    "customfield_43645": null,
+    "customfield_44510": null,
+    "customfield_43658": null,
+    "customfield_42326": null,
+    "customfield_43659": null,
+    "customfield_43657": null,
+    "customfield_28839": null,
+    "customfield_28838": null,
+    "customfield_44087": null,
+    "customfield_13340": null,
+    "customfield_44082": null,
+    "customfield_13342": null,
+    "customfield_13341": null,
+    "customfield_44084": null,
+    "customfield_13344": null,
+    "customfield_44085": null,
+    "customfield_13343": null,
+    "customfield_13346": null,
+    "customfield_13345": null,
+    "customfield_13348": null,
+    "customfield_13347": null,
+    "customfield_44081": null,
+    "customfield_13339": null,
+    "customfield_37799": null,
+    "customfield_28840": null,
+    "customfield_44098": null,
+    "customfield_44099": null,
+    "customfield_44094": null,
+    "customfield_13332": null,
+    "customfield_13335": null,
+    "customfield_13334": null,
+    "customfield_44090": null,
+    "customfield_13337": null,
+    "customfield_13336": null,
+    "customfield_27525": null,
+    "customfield_27527": null,
+    "customfield_27526": null,
+    "customfield_10290": null,
+    "customfield_13320": null,
+    "customfield_10294": null,
+    "customfield_10296": {
+      "self": "https://sunlife.atlassian.net/rest/api/3/customFieldOption/20827",
+      "value": "Low",
+      "id": "20827"
+    },
+    "customfield_10297": null,
+    "customfield_13317": null,
+    "customfield_13316": null,
+    "customfield_13319": null,
+    "customfield_24023": null,
+    "customfield_28868": null,
+    "customfield_28869": null,
+    "customfield_13311": null,
+    "customfield_13310": null,
+    "customfield_13312": null,
+    "customfield_13315": null,
+    "customfield_50777": null,
+    "customfield_28871": null,
+    "customfield_13309": null,
+    "customfield_24030": null,
+    "customfield_28872": null,
+    "customfield_24031": null,
+    "customfield_24032": null,
+    "customfield_28870": null,
+    "customfield_26211": null,
+    "customfield_24034": null,
+    "customfield_25365": null,
+    "customfield_40981": null,
+    "customfield_24035": null,
+    "customfield_28873": null,
+    "customfield_24036": null,
+    "customfield_24037": null,
+    "customfield_38200": null,
+    "customfield_10269": null,
+    "customfield_24040": null,
+    "customfield_24041": null,
+    "resolutiondate": null,
+    "customfield_24042": null,
+    "customfield_24044": null,
+    "customfield_24045": null,
+    "customfield_24046": null,
+    "customfield_24047": null,
+    "customfield_11590": null,
+    "customfield_10261": null,
+    "customfield_11592": null,
+    "customfield_10264": null,
+    "customfield_11594": null,
+    "customfield_10265": null,
+    "customfield_10267": null,
+    "customfield_10258": null,
+    "customfield_26233": null,
+    "customfield_40525": null,
+    "customfield_40526": null,
+    "customfield_40523": null,
+    "customfield_40524": null,
+    "customfield_49359": null,
+    "customfield_49357": null,
+    "customfield_49358": null,
+    "customfield_49355": null,
+    "customfield_11580": null,
+    "customfield_49356": null,
+    "customfield_49354": null,
+    "customfield_11584": null,
+    "customfield_11585": null,
+    "customfield_10247": {
+      "self": "https://sunlife.atlassian.net/rest/api/3/customFieldOption/14303",
+      "value": "Severity 4 - No Impact",
+      "id": "14303"
+    },
+    "customfield_49368": null,
+    "customfield_49369": null,
+    "customfield_49366": null,
+    "customfield_49367": null,
+    "customfield_49364": null,
+    "customfield_49365": null,
+    "customfield_49362": null,
+    "customfield_49363": null,
+    "customfield_39568": [
+      {
+        "self": "https://sunlife.atlassian.net/rest/api/3/customFieldOption/574694",
+        "value": "All colours are accessible (normal vision)",
+        "id": "574694"
+      }
+    ],
+    "customfield_49360": null,
+    "customfield_39569": "Please fill if Other was selected",
+    "customfield_49361": null,
+    "customfield_26258": null,
+    "customfield_43155": null,
+    "customfield_43157": null,
+    "customfield_43158": null,
+    "customfield_43151": null,
+    "customfield_43153": null,
+    "customfield_36859": null,
+    "customfield_36858": null,
+    "customfield_36857": null,
+    "customfield_36856": null,
+    "customfield_36866": null,
+    "customfield_36865": null,
+    "customfield_36864": null,
+    "customfield_36863": null,
+    "customfield_36862": null,
+    "customfield_36861": null,
+    "customfield_36860": null,
+    "customfield_43166": null,
+    "customfield_43167": null,
+    "customfield_44015": null,
+    "customfield_36869": null,
+    "customfield_36877": null,
+    "customfield_36876": null,
+    "customfield_36875": null,
+    "customfield_36874": null,
+    "customfield_36873": null,
+    "customfield_36872": null,
+    "customfield_36871": null,
+    "customfield_36870": null,
+    "customfield_44024": null,
+    "customfield_44025": null,
+    "customfield_44027": null,
+    "customfield_44020": null,
+    "customfield_44022": null,
+    "customfield_44023": null,
+    "customfield_36879": null,
+    "customfield_36878": null,
+    "customfield_36887": null,
+    "customfield_36886": null,
+    "customfield_36885": null,
+    "customfield_36884": null,
+    "customfield_36882": null,
+    "customfield_36881": null,
+    "customfield_36880": null,
+    "customfield_24421": null,
+    "customfield_44018": null,
+    "customfield_44019": null,
+    "customfield_43188": null,
+    "customfield_43189": null,
+    "customfield_44036": null,
+    "customfield_13391": null,
+    "customfield_13390": null,
+    "customfield_13393": null,
+    "customfield_13392": null,
+    "customfield_15573": null,
+    "customfield_43186": null,
+    "customfield_13395": null,
+    "customfield_13394": null,
+    "customfield_43180": null,
+    "customfield_13399": null,
+    "customfield_13398": null,
+    "customfield_44030": null,
+    "aggregateprogress": { "progress": 0, "total": 0 },
+    "customfield_36899": null,
+    "customfield_36898": null,
+    "customfield_36897": null,
+    "customfield_36896": null,
+    "customfield_36895": null,
+    "customfield_36894": null,
+    "customfield_36892": null,
+    "customfield_36891": null,
+    "customfield_36890": null,
+    "customfield_44028": null,
+    "customfield_44029": null,
+    "customfield_44046": null,
+    "customfield_44047": null,
+    "customfield_44048": null,
+    "customfield_44049": null,
+    "customfield_43195": null,
+    "customfield_44042": null,
+    "customfield_44043": null,
+    "customfield_44044": null,
+    "customfield_44045": null,
+    "customfield_43191": null,
+    "customfield_13386": null,
+    "customfield_43192": null,
+    "customfield_43193": null,
+    "customfield_13388": {
+      "self": "https://sunlife.atlassian.net/rest/api/3/customFieldOption/79423",
+      "value": "Invoice",
+      "id": "79423"
+    },
+    "customfield_44040": null,
+    "customfield_44041": null,
+    "customfield_38600": null,
+    "customfield_38601": null,
+    "customfield_13389": null,
+    "customfield_43190": null,
+    "customfield_44039": null,
+    "customfield_28802": null,
+    "customfield_28803": null,
+    "customfield_28801": null,
+    "customfield_44057": null,
+    "customfield_28806": null,
+    "issuerestriction": { "issuerestrictions": {}, "shouldDisplay": false },
+    "customfield_44058": null,
+    "customfield_28807": null,
+    "customfield_44059": null,
+    "customfield_28805": null,
+    "customfield_44053": null,
+    "customfield_44054": null,
+    "customfield_44055": null,
+    "customfield_28808": null,
+    "customfield_11194": null,
+    "customfield_44056": null,
+    "customfield_28809": null,
+    "customfield_44050": null,
+    "customfield_44051": null,
+    "customfield_44052": null,
+    "customfield_11199": null,
+    "customfield_28810": null,
+    "customfield_28813": {
+      "self": "https://sunlife.atlassian.net/rest/api/3/customFieldOption/370169",
+      "value": "Yes",
+      "id": "370169"
+    },
+    "customfield_28814": null,
+    "customfield_28811": null,
+    "customfield_28812": null,
+    "customfield_44068": null,
+    "customfield_28817": null,
+    "customfield_44069": null,
+    "customfield_28818": null,
+    "customfield_28815": null,
+    "customfield_28816": null,
+    "customfield_44064": null,
+    "customfield_44066": null,
+    "customfield_28819": null,
+    "customfield_44067": null,
+    "customfield_44060": null,
+    "customfield_11185": null,
+    "customfield_44061": null,
+    "customfield_44062": null,
+    "customfield_44063": null,
+    "security": null,
+    "customfield_34267": null,
+    "customfield_28820": null,
+    "customfield_28821": null,
+    "customfield_28824": null,
+    "customfield_28825": null,
+    "customfield_28822": null,
+    "customfield_28823": null,
+    "customfield_28828": null,
+    "customfield_28829": null,
+    "customfield_28826": null,
+    "customfield_28827": null,
+    "customfield_44076": null,
+    "customfield_13350": null,
+    "customfield_13353": null,
+    "customfield_44071": null,
+    "customfield_13352": null,
+    "customfield_44072": null,
+    "customfield_44070": null,
+    "customfield_13349": null,
+    "customfield_37787": null,
+    "customfield_28831": null,
+    "customfield_28832": null,
+    "customfield_28830": null,
+    "customfield_28835": null,
+    "customfield_28836": null,
+    "customfield_28833": null,
+    "customfield_28834": null
+  }
+}
