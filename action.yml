@@ -1,0 +1,8 @@
+name: security-metrics
+description: A scheduled action to push security metrics from Github to Google Drive, Slack and JIRA
+
+runs:
+  using: composite
+  steps:
+  - run: go run cmd/*.go
+    shell: bash

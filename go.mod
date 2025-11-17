@@ -3,7 +3,6 @@ module security-metrics-action
 go 1.19
 
 require (
-	github.com/atc0005/go-teams-notify/v2 v2.14.0
 	github.com/slack-go/slack v0.15.0
 	google.golang.org/api v0.152.0
 )
